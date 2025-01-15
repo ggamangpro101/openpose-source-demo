@@ -25,7 +25,7 @@ This repository demonstrates how I used [CMU OpenPose](https://github.com/CMU-Pe
 </p>
 <p align="center">
   <img src="https://github.com/ggamangpro101/openpose-demo/blob/main/gif/movie_theater_face.gif" width="300" height="200" />
-  <img src="https://github.com/ggamangpro101/openpose-demo/blob/main/gif/hand_006.gif" width="300" height="200" />
+  <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/gif/hand_005.gif" width="300" height="200" />
 </p>
 
 ## Installation
