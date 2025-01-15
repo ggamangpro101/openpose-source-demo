@@ -20,12 +20,12 @@ This repository demonstrates how I used [CMU OpenPose](https://github.com/CMU-Pe
 ## Results
 2D Pose Estimation Test (Body, Hand, Face)
 <p align="center">
-  <img src="https://github.com/ggamangpro101/JKim-openpose-demo/blob/main/gif/jm_golf_11.gif" width="300" height="200" />
-  <img src="https://github.com/ggamangpro101/openpose-demo/blob/main/gif/hand_005.gif" width="300" height="200" />
+  <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/gif/jm_golf_11.gif" width="300" height="200" />
+  <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/gif/hand_005.gif" width="300" height="200" />
 </p>
 <p align="center">
-  <img src="https://github.com/ggamangpro101/openpose-demo/blob/main/gif/movie_theater_face.gif" width="300" height="200" />
-  <img src="https://github.com/ggamangpro101/openpose-demo/blob/main/gif/hand_006.gif" width="300" height="200" />
+  <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/gif/movie_theater_face.gif" width="300" height="200" />
+  <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/gif/hand_006.gif" width="300" height="200" />
 </p>
 
 ## Installation
@@ -54,7 +54,7 @@ Instead, download dependencies manually:
 - CMake-GUI “NOT FOUND” Error
   
   - BOOST NOT FOUND:
-  ![image](https://github.com/user-attachments/assets/3f2613a1-acd0-424a-a60a-aa10fd8b322c)
+  <img src=https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/BOOST_NOTFOUND.png />
     - BOOST_FILESYSTEM_LIB_DEBUG -->
     ../openpose/3rdparty/windows/caffe3rdparty/lib/boost_filesystem-vc142-mt-gd-x64-1_74.lib
     - BOOST_FILESYSTEM_LIB_RELEASE --> 
@@ -65,7 +65,7 @@ Instead, download dependencies manually:
     ../openpose/3rdparty/windows/caffe3rdparty/lib/boost_system-vc142-mt-x64-1_74.lib
 
   - Caffe NOT FOUND:
-  ![image](https://github.com/user-attachments/assets/5d8b5aa2-d750-4097-ad77-9644f8d758b5)
+  <img src=https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/Caffe_NOTFOUND.png />
     - Caffe_LIB_DEBUG --> 
     ../openpose/3rdparty/windows/caffe/lib/caffe-d.lib
     - Caffe_LIB_RELEASE --> 
@@ -76,14 +76,14 @@ Instead, download dependencies manually:
     ../openpose/3rdparty/windows/caffe/lib/caffeproto.lib
 
   - GFLAGS NOT FOUND:
-  ![image](https://github.com/user-attachments/assets/8f6edb5f-042b-4fc2-8501-60324b3ff88d)
+  <img src=https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/GFLAGS_NOTFOUND.png />
     - GFLAGS_LIBRARY_DEBUG -->
     ../openpose/3rdparty/windows/caffe3rdparty/lib/gflagsd.lib
     - GFLAGS_LIBRARY_RELEASE -->
     ../openpose/3rdparty/windows/caffe3rdparty/lib/gflags.lib 
 
   - GLOG NOT FOUND:
-  ![image](https://github.com/user-attachments/assets/e754bf28-962b-43a6-90e0-47ac4f3360dc)
+  <img src=https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/GLOG_NOTFOUND.png />
     - GLOG_LIBRARY_DEBUG -->
     ../openpose/3rdparty/windows/caffe3rdparty/lib/glogd.lib
     - GLOG_LIBRARY_RELEASE -->
@@ -92,9 +92,7 @@ Instead, download dependencies manually:
 - Model Error
 
 ## Repository Contents
-- `run_demo.sh`: Example script for running OpenPose.
-- `jm_golf_#.mp4`: Input video for the demo.
-- `output/`: Folder for processed files.
+- `openpose_quick_commands.txt`: Quick commands for running OpenPose.
 
 
 ## Runtime Analysis
