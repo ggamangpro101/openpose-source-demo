@@ -55,6 +55,7 @@ Instead, download dependencies manually:
   
   - BOOST NOT FOUND:
   ![image](https://github.com/user-attachments/assets/3f2613a1-acd0-424a-a60a-aa10fd8b322c)
+  <img src=https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/BOOST_NOTFOUND.png />
     - BOOST_FILESYSTEM_LIB_DEBUG -->
     ../openpose/3rdparty/windows/caffe3rdparty/lib/boost_filesystem-vc142-mt-gd-x64-1_74.lib
     - BOOST_FILESYSTEM_LIB_RELEASE --> 
