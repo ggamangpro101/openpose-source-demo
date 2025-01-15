@@ -92,9 +92,7 @@ Instead, download dependencies manually:
 - Model Error
 
 ## Repository Contents
-- `run_demo.sh`: Example script for running OpenPose.
-- `jm_golf_#.mp4`: Input video for the demo.
-- `output/`: Folder for processed files.
+- `openpose_quick_commands.txt`: Quick commands for running OpenPose.
 
 
 ## Runtime Analysis
