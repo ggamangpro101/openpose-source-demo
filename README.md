@@ -37,7 +37,7 @@ This repository demonstrates how I used [CMU OpenPose](https://github.com/CMU-Pe
      https://developer.nvidia.com/cuda-gpus#compute
 4. Open CMake-GUI
    - Create "build" folder in "openpose" folder
-     <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/installation/create_build_folder_zoom.png" />
+     <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/installation/create_build_folder_zoom.png" width="300" height="200" />
 
 
 ## Download Dependencies
