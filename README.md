@@ -20,7 +20,7 @@ This repository demonstrates how I used [CMU OpenPose](https://github.com/CMU-Pe
 ## Results
 2D Pose Estimation Test (Body, Hand, Face)
 <p align="center">
-  <img src="https://github.com/ggamangpro101/JKim-openpose-demo/blob/main/gif/jm_golf_11.gif" width="300" height="200" />
+  <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/gif/jm_golf_11.gif" width="300" height="200" />
   <img src="https://github.com/ggamangpro101/openpose-demo/blob/main/gif/hand_005.gif" width="300" height="200" />
 </p>
 <p align="center">
