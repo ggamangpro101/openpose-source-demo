@@ -77,14 +77,14 @@ Instead, download dependencies manually:
       ../openpose/3rdparty/windows/caffe/lib/caffeproto.lib
 
   - GFLAGS NOT FOUND:
-    <img src=https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/GFLAGS_NOTFOUND.png width="900" height="100"/>
+    <img src=https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/GFLAGS_NOTFOUND.png width="900" height="50"/>
       - GFLAGS_LIBRARY_DEBUG -->
       ../openpose/3rdparty/windows/caffe3rdparty/lib/gflagsd.lib
       - GFLAGS_LIBRARY_RELEASE -->
       ../openpose/3rdparty/windows/caffe3rdparty/lib/gflags.lib 
 
   - GLOG NOT FOUND:
-    <img src=https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/GLOG_NOTFOUND.png width="900" height="100"/>
+    <img src=https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/GLOG_NOTFOUND.png width="900" height="50"/>
       - GLOG_LIBRARY_DEBUG -->
       ../openpose/3rdparty/windows/caffe3rdparty/lib/glogd.lib
       - GLOG_LIBRARY_RELEASE -->
