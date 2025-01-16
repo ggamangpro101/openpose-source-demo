@@ -111,6 +111,7 @@ The `getModels.bat` script in `D:\my_programming\openpose\models` may fail to do
 </p>
 
 When you manually download the `model.zip` file and extract it, follow these steps carefully to replace the `.caffemodel` files without affecting other essential files.  
+
 **1. Unzip the Downloaded Model File**
    - Extract the model.zip file into a temporary folder.
    - Inside the extracted folder, locate the .caffemodel files for the respective models:
@@ -119,7 +120,14 @@ When you manually download the `model.zip` file and extract it, follow these ste
       - Body Models (e.g., BODY_25): `pose_iter_584000.caffemodel`
 
 **2. Replace the Existing `.caffemodel`**
+   - Navigate to the original model folder: `..\openpose\models`.
+   - Replace only the `.caffemodel` files under the respective directories.
+
 **3. Verify Supporting Files Are Untouched**
+   - For `Face Models`: Ensure `.xml` and `.prototxt` files are present and untouched in: `..\openpose\models\face`
+   - For `Hand Models`: Ensure `.prototxt` files remain untouched in: `..\openpose\models\hand`
+   - For `Pose Models`: Under `body_25`, ensure `.prototxt` files remain untouched in: `..\openpose\models\pose\body_25`
+
 **4. Avoid Confusion with New Files**
    - Do not copy extra files from the extracted model.zip that do not belong to the corresponding directories.
    - Double-check that only the .caffemodel files are replaced.
