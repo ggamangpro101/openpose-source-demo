@@ -72,36 +72,9 @@ Download models manually:
 When configuring and generating in CMake-GUI, you might encounter **"NOT FOUND"** errors for dependencies such as `Boost`, `Caffe`, `GFlags`, or `GLog`. These errors occur because the required `.lib` files are missing or their paths are not set correctly.  
   
 ### Model Error
-The `getModels.bat` script in `D:\my_programming\openpose\models` may fail to download the required models due to connectivity issues or the server being unavailable. To resolve this, you need to download the [models](https://drive.google.com/file/d/1QCSxJZpnWvM00hx49CJ2zky7PWGzpcEh/edit) manually.
-<p align="center">
-   <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/getModels.bat_download_error.png" /> <br>
-   <sup>getModels.bat failed due to no connection</sup>
-</p>
-
+The `getModels.bat` script in `D:\my_programming\openpose\models` may fail to download the required models due to connectivity issues or the server being unavailable. To resolve this, you need to download the [models](https://drive.google.com/file/d/1QCSxJZpnWvM00hx49CJ2zky7PWGzpcEh/edit) manually. <br>
 When you manually download the `model.zip` file and extract it, follow these steps carefully to replace the `.caffemodel` files without affecting other essential files, unless necessary for specific purposes.  
 
-**1. Unzip the Downloaded Model File**
-   - Extract the model.zip file into a temporary folder.
-   - Inside the extracted folder, locate the .caffemodel files for the respective models:
-      - Face Model: `pose_iter_116000.caffemodel`
-      - Hand Model: `pose_iter_102000.caffemodel`
-      - Body Models (e.g., BODY_25): `pose_iter_584000.caffemodel`
-
-**2. Replace the Existing `.caffemodel`**
-   - Navigate to the original model folder: `..\openpose\models`.
-   - Replace only the `.caffemodel` files under the respective directories.
-
-**3. Verify Supporting Files Are Untouched**
-   - For `Face Models`: Ensure `.xml` and `.prototxt` files are present and untouched in: `..\openpose\models\face`
-   - For `Hand Models`: Ensure `.prototxt` files remain untouched in: `..\openpose\models\hand`
-   - For `Pose Models`: Under `body_25`, ensure `.prototxt` files remain untouched in: `..\openpose\models\pose\body_25`
-
-**4. Avoid Confusion with New Files**
-   - Do not copy extra files from the extracted `model.zip` that do not belong to the corresponding directories.
-   - Double-check that only the `.caffemodel` files are replaced.  
-
-**5. Test the Setup**
-   - After replacing the `.caffemodel` files, run OpenPose to confirm the models load correctly and there are no missing file errors.
 
 ## Repository Contents
 - `openpose_quick_commands.txt`: Quick commands for running OpenPose.
