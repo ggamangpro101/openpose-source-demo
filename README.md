@@ -24,7 +24,7 @@ This repository demonstrates how I used [CMU OpenPose](https://github.com/CMU-Pe
 <p align="left">
   <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/gif/jm_golf_011.gif" width="300" height="200" />
 </p>
-<p align="center" style="font-size: 16px; color: gray;">
+<p align="left" style="font-size: 10px; color: gray;">
   Golf Pose Estimation
 </p>
 <p align="right">
