@@ -24,7 +24,7 @@ This repository demonstrates how I used [CMU OpenPose](https://github.com/CMU-Pe
 <p align="center">
   <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/gif/jm_golf_011.gif" width="300" height="200" />
   <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/gif/dance_001.gif" width="300" height="200" /> <br>
-   <p font size="5">  
+   <p align="center" font size="5">  
    Golf Pose Estimation(Body) single subject & Dance Pose Estimation(Body) multiple subject simultaneously
    </p>
 </p>
