@@ -33,9 +33,9 @@ This repository demonstrates how I used [CMU OpenPose](https://github.com/CMU-Pe
 </p>
 
 <p align="center">
- <figure>
+ <figure style="display: inline-block; margin: 10px;">
   <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/gif/theater.gif" width="300" height="200" />
-  <figcaption>Movie Theater Pose Estimation (Face)</figcaption>
+  <figcaption style="text-align: center;">Movie Theater Pose Estimation (Face)</figcaption>
  </figure>
  <figure>
   <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/gif/sign_lang_001.gif" width="300" height="200" />
