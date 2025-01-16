@@ -24,7 +24,10 @@ This repository demonstrates how I used [CMU OpenPose](https://github.com/CMU-Pe
 <p align="center">
   <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/gif/jm_golf_011.gif" width="300" height="200" />
   <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/gif/dance_001.gif" width="300" height="200" /> <br>
-   Golf Pose Estimation (Body) showcases a single subject being analyzed, Dance Pose Estimation (Body) demonstrates the ability to detect and analyze multiple people simultaneously in a dynamic scene.</p>
+   <p style="font-size: 12px; text-align: center;">
+   Golf Pose Estimation (Body) single subject & Dance Pose Estimation (Body) multiple subject simultaneously
+   </p>
+</p>
 
 <p align="center">
   <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/gif/theater.gif" width="300" height="200" />
