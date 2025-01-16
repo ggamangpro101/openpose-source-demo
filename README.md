@@ -110,7 +110,7 @@ The `getModels.bat` script in `D:\my_programming\openpose\models` may fail to do
 <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/getModels.bat_download_error.png" width="90%" height="90%" />
 </p>
 
-When you manually download the `model.zip` file and extract it, follow these steps carefully to replace the `.caffemodel` files without affecting other essential files.
+When you manually download the `model.zip` file and extract it, follow these steps carefully to replace the `.caffemodel` files without affecting other essential files.  
 **1. Unzip the Downloaded Model File**
    - Extract the model.zip file into a temporary folder.
    - Inside the extracted folder, locate the .caffemodel files for the respective models:
