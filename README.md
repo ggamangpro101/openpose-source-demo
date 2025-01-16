@@ -48,7 +48,7 @@ This repository demonstrates my personal project where I compiled and ran [CMU O
 ## Download Dependencies
 When you navigate to `..\openpose_initial\3rdparty\windows`, you will see several `.bat` files. These batch files are used to download and configure third-party dependencies required by OpenPose. However, running these `.bat` files directly in the `Command Prompt` might fail because some of the referenced websites are no longer accessible. 
 <p align="center">
-   <img src=https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/GetCaffe3rdparty.bat_download_error.png />
+   <img src=https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/GetCaffe3rdparty.bat_download_error.png /> <br>
    <sup>getCaffe3rdparty.bat failed due to no connection</sup>
 </p>
 
@@ -110,7 +110,7 @@ When configuring and generating in CMake-GUI, you might encounter **"NOT FOUND"*
 ### Model Error
 The `getModels.bat` script in `D:\my_programming\openpose\models` may fail to download the required models due to connectivity issues or the server being unavailable. To resolve this, you need to download the [models](https://drive.google.com/file/d/1QCSxJZpnWvM00hx49CJ2zky7PWGzpcEh/edit) manually.
 <p align="center">
-   <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/getModels.bat_download_error.png" />
+   <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/getModels.bat_download_error.png" /> <br>
    <sup>getModels.bat failed due to no connection</sup>
 </p>
 
