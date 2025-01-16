@@ -111,8 +111,8 @@ When configuring and generating in CMake-GUI, you might encounter **"NOT FOUND"*
 ### Model Error
 The `getModels.bat` script in `D:\my_programming\openpose\models` may fail to download the required models due to connectivity issues or the server being unavailable. To resolve this, you need to download the [models](https://drive.google.com/file/d/1QCSxJZpnWvM00hx49CJ2zky7PWGzpcEh/edit) manually.
 <p align="center">
-<img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/getModels.bat_download_error.png" />
-   getModels.bat failed due to no connection
+   <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/getModels.bat_download_error.png" />
+   <em>getModels.bat failed due to no connection</em>
 </p>
 
 When you manually download the `model.zip` file and extract it, follow these steps carefully to replace the `.caffemodel` files without affecting other essential files, unless necessary for specific purposes.  
