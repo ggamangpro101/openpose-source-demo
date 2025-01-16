@@ -70,54 +70,7 @@ Download models manually:
 ## Error Handling
 ### CMake-GUI “NOT FOUND” Error
 When configuring and generating in CMake-GUI, you might encounter **"NOT FOUND"** errors for dependencies such as `Boost`, `Caffe`, `GFlags`, or `GLog`. These errors occur because the required `.lib` files are missing or their paths are not set correctly.  
-  - **BOOST NOT FOUND :**   
-    <img src=https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/BOOST_NOTFOUND.png width=90% height=90% />
-     
-     - BOOST_FILESYSTEM_LIB_DEBUG :  
-     `../openpose/3rdparty/windows/caffe3rdparty/lib/boost_filesystem-vc142-mt-gd-x64-1_74.lib`
-
-     - BOOST_FILESYSTEM_LIB_RELEASE :  
-     `../openpose/3rdparty/windows/caffe3rdparty/lib/boost_filesystem-vc142-mt-x64-1_74.lib`
-
-     - BOOST_SYSTEM_LIB_DEBUG :  
-     `../openpose/3rdparty/windows/caffe3rdparty/lib/boost_system-vc142-mt-gd-x64-1_74.lib`
-
-     - BOOST_SYSTEM_LIB_RELEASE :  
-     `../openpose/3rdparty/windows/caffe3rdparty/lib/boost_system-vc142-mt-x64-1_74.lib`
-
-  - **Caffe NOT FOUND :**  
-    <img src=https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/Caffe_NOTFOUND.png width=90% height=90%/>
-    
-      - Caffe_LIB_DEBUG :
-      `../openpose/3rdparty/windows/caffe/lib/caffe-d.lib`
-
-      - Caffe_LIB_RELEASE :
-      `../openpose/3rdparty/windows/caffe/lib/caffe.lib`
-
-      - Caffe_Proto_LIB_DEBUG :
-      `../openpose/3rdparty/windows/caffe/lib/caffeproto-d.lib`
-
-      - Caffe_Proto_LIB_RELEASE : 
-      `../openpose/3rdparty/windows/caffe/lib/caffeproto.lib`
-
-  - **GFLAGS NOT FOUND :**  
-    <img src=https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/GFLAGS_NOTFOUND.png width="90%" height="90%"/>
-    
-      - GFLAGS_LIBRARY_DEBUG :
-      `../openpose/3rdparty/windows/caffe3rdparty/lib/gflagsd.lib`
-
-      - GFLAGS_LIBRARY_RELEASE :
-      `../openpose/3rdparty/windows/caffe3rdparty/lib/gflags.lib `
-
-  - **GLOG NOT FOUND :**  
-    <img src=https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/GLOG_NOTFOUND.png width=90% height=90%/>
-    
-      - GLOG_LIBRARY_DEBUG :
-      `../openpose/3rdparty/windows/caffe3rdparty/lib/glogd.lib`
-
-      - GLOG_LIBRARY_RELEASE :
-      `../openpose/3rdparty/windows/caffe3rdparty/lib/glog.lib`
-
+  
 ### Model Error
 The `getModels.bat` script in `D:\my_programming\openpose\models` may fail to download the required models due to connectivity issues or the server being unavailable. To resolve this, you need to download the [models](https://drive.google.com/file/d/1QCSxJZpnWvM00hx49CJ2zky7PWGzpcEh/edit) manually.
 <p align="center">
