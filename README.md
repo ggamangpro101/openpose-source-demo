@@ -25,16 +25,13 @@ This repository demonstrates how I used [CMU OpenPose](https://github.com/CMU-Pe
   <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/gif/jm_golf_011.gif" width="300" height="200" hspace="0"/>
   <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/gif/dance_001.gif" width="300" height="200" hspace="50"/> <br>
   <em>Golf Pose Estimation(Body) single subject & Dance Pose Estimation(Body) multiple subject simultaneously</em>
-
 </p>
 
-<p align="center">
+<figure align="center">
   <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/gif/theater.gif" width="300" height="200" />
   <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/gif/sign_lang_001.gif" width="300" height="200" hspace="50" />
-   <p align="center">  
-   Pose Estimation(Face) & Pose Estimation(Hand&Face) 
-   </p>
-</p>
+  <figcaption>Pose Estimation(Face) & Pose Estimation(Hand&Face)</figcaption> 
+</figure>
 
 ## Installation
 1. Download OpenPose from [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) in to working directory.
