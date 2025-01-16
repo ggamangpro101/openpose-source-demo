@@ -38,7 +38,7 @@ This repository demonstrates how I used [CMU OpenPose](https://github.com/CMU-Pe
 4. Open CMake-GUI
    - Create "build" folder in "openpose" folder
      <br>
-     <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/installation/create_build_folder_zoom.png" style="width=60% height=60%" />
+     <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/installation/create_build_folder_zoom.png" style="width=40% height=40%" />
 
 
 ## Download Dependencies
