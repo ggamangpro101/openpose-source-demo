@@ -15,7 +15,7 @@ This repository demonstrates how I used [CMU OpenPose](https://github.com/CMU-Pe
 2. [Installation](#installation)
 3. [Donwload Dependencies](#Download-Dependencies)
 4. [Error Handling](#Error-Handling)
-   - CMake-GUI “NOT FOUND” Error
+   - [CMake-GUI “NOT FOUND” Error](CMake-GUI-“NOT-FOUND”-Error)
 6. [License](#license)
 
 ## Results
