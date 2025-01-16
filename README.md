@@ -1,6 +1,9 @@
 # OpenPose from Source Demo
 
 This repository demonstrates how I used [CMU OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) to process my own video and image inputs for non-commercial research purposes.
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
 
 ## Environment 
 - Operating system: Windows 10 
