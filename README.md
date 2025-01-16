@@ -53,7 +53,7 @@ Instead, download dependencies manually:
 - [3rdparty_v1_2021.zip](https://drive.google.com/file/d/1WvftDLLEwAxeO2A-n12g5IFtfLbMY9mG/edit)
 
 ## Error Handling
-# CMake-GUI “NOT FOUND” Error
+### CMake-GUI “NOT FOUND” Error
   
   - BOOST NOT FOUND:
     <img src=https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/BOOST_NOTFOUND.png width="900" height="100"/>
