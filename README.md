@@ -109,7 +109,13 @@ The `getModels.bat` script in `D:\my_programming\openpose\models` may fail to do
 <p align="center">
 <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/getModels.bat_download_error.png" width="90%" height="90%" />
 </p>
-
+When you manually download the `model.zip` file and extract it, follow these steps carefully to replace the `.caffemodel` files without affecting other essential files.
+ 1. Unzip the Downloaded Model File
+  - Extract the model.zip file into a temporary folder.
+  - Inside the extracted folder, locate the .caffemodel files for the respective models:
+   - Face Model: `pose_iter_116000.caffemodel`
+   - Hand Model: `pose_iter_102000.caffemodel`
+   - Body Models (e.g., BODY_25): `pose_iter_584000.caffemodel`
 ## Repository Contents
 - `openpose_quick_commands.txt`: Quick commands for running OpenPose.
 
