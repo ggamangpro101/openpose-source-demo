@@ -52,9 +52,20 @@ When you navigate to `..\openpose_initial\3rdparty\windows`, you will see severa
    <sup>getCaffe3rdparty.bat failed due to no connection</sup>
 </p>
 
-Instead, download dependencies manually:
-- [Model.zip](https://drive.google.com/file/d/1QCSxJZpnWvM00hx49CJ2zky7PWGzpcEh/edit)
+Download dependencies manually:
 - [3rdparty_v1_2021.zip](https://drive.google.com/file/d/1WvftDLLEwAxeO2A-n12g5IFtfLbMY9mG/edit)
+
+
+## Download Models
+The `getModels.bat` script in `D:\my_programming\openpose\models` may fail to download the required models due to connectivity issues or the server being unavailable. To resolve this, you need to download the [models](https://drive.google.com/file/d/1QCSxJZpnWvM00hx49CJ2zky7PWGzpcEh/edit) manually.
+<p align="center">
+   <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/getModels.bat_download_error.png" /> <br>
+   <sup>getModels.bat failed due to no connection</sup>
+</p>
+
+Download models manually:
+- [Model.zip](https://drive.google.com/file/d/1QCSxJZpnWvM00hx49CJ2zky7PWGzpcEh/edit)
+
 
 ## Error Handling
 ### CMake-GUI “NOT FOUND” Error
