@@ -61,16 +61,26 @@ Instead, download dependencies manually:
     <img src=https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/BOOST_NOTFOUND.png width="800" height="70"/>
     <br>
      - BOOST_FILESYSTEM_LIB_DEBUG :
+     <br>
      `../openpose/3rdparty/windows/caffe3rdparty/lib/boost_filesystem-vc142-mt-gd-x64-1_74.lib`
-     - BOOST_FILESYSTEM_LIB_RELEASE : 
+     <br>
+     - BOOST_FILESYSTEM_LIB_RELEASE :
+     <br> 
      `../openpose/3rdparty/windows/caffe3rdparty/lib/boost_filesystem-vc142-mt-x64-1_74.lib`
+     <br>
      - BOOST_SYSTEM_LIB_DEBUG :
+     <br>
      `../openpose/3rdparty/windows/caffe3rdparty/lib/boost_system-vc142-mt-gd-x64-1_74.lib`
+     <br>
      - BOOST_SYSTEM_LIB_RELEASE :
+     <br>
      `../openpose/3rdparty/windows/caffe3rdparty/lib/boost_system-vc142-mt-x64-1_74.lib`
+     <br>
 
   - Caffe NOT FOUND:
-    <img src=https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/Caffe_NOTFOUND.png width="800" height="70"/> <br>
+    <br>
+    <img src=https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/Caffe_NOTFOUND.png width="800" height="70"/>
+    <br>
       - Caffe_LIB_DEBUG :
       `../openpose/3rdparty/windows/caffe/lib/caffe-d.lib`
       - Caffe_LIB_RELEASE :
