@@ -16,6 +16,7 @@ This repository demonstrates how I used [CMU OpenPose](https://github.com/CMU-Pe
 3. [Donwload Dependencies](#Download-Dependencies)
 4. [Error Handling](#Error-Handling)
    - [CMake-GUI “NOT FOUND” Error](#cmake-gui-not-found-error)
+   - [Model Error](#model-error)
 6. [License](#license)
 
 ## Results
@@ -91,7 +92,7 @@ Instead, download dependencies manually:
       - GLOG_LIBRARY_RELEASE -->
       ../openpose/3rdparty/windows/caffe3rdparty/lib/glog.lib
 
-- Model Error
+### Model Error
 
 ## Repository Contents
 - `openpose_quick_commands.txt`: Quick commands for running OpenPose.
