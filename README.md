@@ -41,13 +41,13 @@ This repository demonstrates how I used [CMU OpenPose](https://github.com/CMU-Pe
 4. Open CMake-GUI
    - Create "build" folder in "openpose" folder
      <br>
-     <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/installation/create_build_folder_zoom.png" width=60% height=60% />
+     <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/installation/create_build_folder_zoom.png" width=80% height=80% />
 
 
 ## Download Dependencies
 When you navigate to `..\openpose_initial\3rdparty\windows`, you will see several `.bat` files. These batch files are used to download and configure third-party dependencies required by OpenPose. However, running these `.bat` files directly in the `Command Prompt` might fail because some of the referenced websites are no longer accessible. 
 <p align="center">
-<img src=https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/GetCaffe3rdparty.bat_download_error.png width="90%" height="90%"/>
+<img src=https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/GetCaffe3rdparty.bat_download_error.png />
 </p>
 
 Instead, download dependencies manually:
@@ -58,7 +58,7 @@ Instead, download dependencies manually:
 ### CMake-GUI “NOT FOUND” Error
 When configuring and generating in CMake-GUI, you might encounter **"NOT FOUND"** errors for dependencies such as `Boost`, `Caffe`, `GFlags`, or `GLog`. These errors occur because the required `.lib` files are missing or their paths are not set correctly.  
   - **BOOST NOT FOUND :**   
-    <img src=https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/BOOST_NOTFOUND.png width="80%" height="80%"/>
+    <img src=https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/BOOST_NOTFOUND.png />
      
      - BOOST_FILESYSTEM_LIB_DEBUG :  
      `../openpose/3rdparty/windows/caffe3rdparty/lib/boost_filesystem-vc142-mt-gd-x64-1_74.lib`
@@ -73,7 +73,7 @@ When configuring and generating in CMake-GUI, you might encounter **"NOT FOUND"*
      `../openpose/3rdparty/windows/caffe3rdparty/lib/boost_system-vc142-mt-x64-1_74.lib`
 
   - **Caffe NOT FOUND :**  
-    <img src=https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/Caffe_NOTFOUND.png width="90%" height="90%"/>
+    <img src=https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/Caffe_NOTFOUND.png />
     
       - Caffe_LIB_DEBUG :
       `../openpose/3rdparty/windows/caffe/lib/caffe-d.lib`
@@ -97,7 +97,7 @@ When configuring and generating in CMake-GUI, you might encounter **"NOT FOUND"*
       `../openpose/3rdparty/windows/caffe3rdparty/lib/gflags.lib `
 
   - **GLOG NOT FOUND :**  
-    <img src=https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/GLOG_NOTFOUND.png width="80%" height="80%"/>
+    <img src=https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/GLOG_NOTFOUND.png />
     
       - GLOG_LIBRARY_DEBUG :
       `../openpose/3rdparty/windows/caffe3rdparty/lib/glogd.lib`
@@ -108,7 +108,7 @@ When configuring and generating in CMake-GUI, you might encounter **"NOT FOUND"*
 ### Model Error
 The `getModels.bat` script in `D:\my_programming\openpose\models` may fail to download the required models due to connectivity issues or the server being unavailable. To resolve this, you need to download the [models](https://drive.google.com/file/d/1QCSxJZpnWvM00hx49CJ2zky7PWGzpcEh/edit) manually.
 <p align="center">
-<img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/getModels.bat_download_error.png" width="90%" height="90%" />
+<img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/getModels.bat_download_error.png" />
 </p>
 
 When you manually download the `model.zip` file and extract it, follow these steps carefully to replace the `.caffemodel` files without affecting other essential files.  
