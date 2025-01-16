@@ -56,7 +56,7 @@ Instead, download dependencies manually:
 ## Error Handling
 ### CMake-GUI “NOT FOUND” Error
   
-  - BOOST NOT FOUND :
+  - BOOST NOT FOUND :  
     <img src=https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/BOOST_NOTFOUND.png width="800" height="70"/>
      
      - BOOST_FILESYSTEM_LIB_DEBUG :  
@@ -86,7 +86,7 @@ Instead, download dependencies manually:
       - Caffe_Proto_LIB_RELEASE : 
       `../openpose/3rdparty/windows/caffe/lib/caffeproto.lib`
 
-  - GFLAGS NOT FOUND :
+  - GFLAGS NOT FOUND :  
     <img src=https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/GFLAGS_NOTFOUND.png width="800" height="40"/>
     
       - GFLAGS_LIBRARY_DEBUG :
@@ -95,7 +95,7 @@ Instead, download dependencies manually:
       - GFLAGS_LIBRARY_RELEASE :
       `../openpose/3rdparty/windows/caffe3rdparty/lib/gflags.lib `
 
-  - GLOG NOT FOUND :
+  - GLOG NOT FOUND :  
     <img src=https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/GLOG_NOTFOUND.png width="900" height="40"/>
     
       - GLOG_LIBRARY_DEBUG :
