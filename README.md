@@ -23,7 +23,7 @@ This repository demonstrates my personal project where I compiled and ran [CMU O
 <p align="center">
   <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/gif/jm_golf_011.gif" width="300" height="200" hspace="0"/>
   <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/gif/dance_001.gif" width="300" height="200" hspace="50"/> <br>
-  <em>Golf Pose Estimation(Body) single subject & Dance Pose Estimation(Body) multiple subject simultaneously</em>
+  <sup>Golf Pose Estimation(Body) single subject & Dance Pose Estimation(Body) multiple subject simultaneously</sup>
 </p>
 
 <p align="center">
