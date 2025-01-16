@@ -58,7 +58,7 @@ Instead, download dependencies manually:
 ### CMake-GUI “NOT FOUND” Error
 When configuring and generating in CMake-GUI, you might encounter **"NOT FOUND"** errors for dependencies such as `Boost`, `Caffe`, `GFlags`, or `GLog`. These errors occur because the required `.lib` files are missing or their paths are not set correctly.  
   - **BOOST NOT FOUND :**   
-    <img src=https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/BOOST_NOTFOUND.png />
+    <img src=https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/BOOST_NOTFOUND.png width=80% height=80% />
      
      - BOOST_FILESYSTEM_LIB_DEBUG :  
      `../openpose/3rdparty/windows/caffe3rdparty/lib/boost_filesystem-vc142-mt-gd-x64-1_74.lib`
@@ -97,7 +97,7 @@ When configuring and generating in CMake-GUI, you might encounter **"NOT FOUND"*
       `../openpose/3rdparty/windows/caffe3rdparty/lib/gflags.lib `
 
   - **GLOG NOT FOUND :**  
-    <img src=https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/GLOG_NOTFOUND.png />
+    <img src=https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/GLOG_NOTFOUND.png width=80% height=80%/>
     
       - GLOG_LIBRARY_DEBUG :
       `../openpose/3rdparty/windows/caffe3rdparty/lib/glogd.lib`
