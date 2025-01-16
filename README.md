@@ -29,7 +29,7 @@ This repository demonstrates my personal project where I compiled and ran [CMU O
 <p align="center">
   <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/gif/theater.gif" width="300" height="200" />
   <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/gif/sign_lang_001.gif" width="300" height="200" hspace="50" /> <br>
-  <em>Pose Estimation(Face) & Pose Estimation(Hand&Face)</em> 
+  <sup>Pose Estimation(Face) & Pose Estimation(Hand&Face)</sup> 
 </p>
 
 ## Installation
@@ -49,7 +49,7 @@ This repository demonstrates my personal project where I compiled and ran [CMU O
 When you navigate to `..\openpose_initial\3rdparty\windows`, you will see several `.bat` files. These batch files are used to download and configure third-party dependencies required by OpenPose. However, running these `.bat` files directly in the `Command Prompt` might fail because some of the referenced websites are no longer accessible. 
 <p align="center">
    <img src=https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/GetCaffe3rdparty.bat_download_error.png />
-   <em>getCaffe3rdparty.bat failed due to no connection</em>
+   <sup>getCaffe3rdparty.bat failed due to no connection</sup>
 </p>
 
 Instead, download dependencies manually:
@@ -111,7 +111,7 @@ When configuring and generating in CMake-GUI, you might encounter **"NOT FOUND"*
 The `getModels.bat` script in `D:\my_programming\openpose\models` may fail to download the required models due to connectivity issues or the server being unavailable. To resolve this, you need to download the [models](https://drive.google.com/file/d/1QCSxJZpnWvM00hx49CJ2zky7PWGzpcEh/edit) manually.
 <p align="center">
    <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/getModels.bat_download_error.png" />
-   <em>getModels.bat failed due to no connection</em>
+   <sup>getModels.bat failed due to no connection</sup>
 </p>
 
 When you manually download the `model.zip` file and extract it, follow these steps carefully to replace the `.caffemodel` files without affecting other essential files, unless necessary for specific purposes.  
