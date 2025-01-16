@@ -58,39 +58,39 @@ Instead, download dependencies manually:
   
   - BOOST NOT FOUND:
     <img src=https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/BOOST_NOTFOUND.png width="900" height="100"/>
-      - BOOST_FILESYSTEM_LIB_DEBUG
+      - BOOST_FILESYSTEM_LIB_DEBUG :
       `../openpose/3rdparty/windows/caffe3rdparty/lib/boost_filesystem-vc142-mt-gd-x64-1_74.lib`
-      - BOOST_FILESYSTEM_LIB_RELEASE 
+      - BOOST_FILESYSTEM_LIB_RELEASE : 
       `../openpose/3rdparty/windows/caffe3rdparty/lib/boost_filesystem-vc142-mt-x64-1_74.lib`
-      - BOOST_SYSTEM_LIB_DEBUG
+      - BOOST_SYSTEM_LIB_DEBUG :
       `../openpose/3rdparty/windows/caffe3rdparty/lib/boost_system-vc142-mt-gd-x64-1_74.lib`
-      - BOOST_SYSTEM_LIB_RELEASE
+      - BOOST_SYSTEM_LIB_RELEASE :
       `../openpose/3rdparty/windows/caffe3rdparty/lib/boost_system-vc142-mt-x64-1_74.lib`
 
   - Caffe NOT FOUND:
     <img src=https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/Caffe_NOTFOUND.png width="900" height="100"/>
-      - Caffe_LIB_DEBUG --> 
-      ../openpose/3rdparty/windows/caffe/lib/caffe-d.lib
-      - Caffe_LIB_RELEASE --> 
-      ../openpose/3rdparty/windows/caffe/lib/caffe.lib
-      - Caffe_Proto_LIB_DEBUG --> 
-      ../openpose/3rdparty/windows/caffe/lib/caffeproto-d.lib
-      - Caffe_Proto_LIB_RELEASE --> 
-      ../openpose/3rdparty/windows/caffe/lib/caffeproto.lib
+      - Caffe_LIB_DEBUG :
+      `../openpose/3rdparty/windows/caffe/lib/caffe-d.lib`
+      - Caffe_LIB_RELEASE :
+      `../openpose/3rdparty/windows/caffe/lib/caffe.lib`
+      - Caffe_Proto_LIB_DEBUG :
+      `../openpose/3rdparty/windows/caffe/lib/caffeproto-d.lib`
+      - Caffe_Proto_LIB_RELEASE : 
+      `../openpose/3rdparty/windows/caffe/lib/caffeproto.lib`
 
   - GFLAGS NOT FOUND:
     <img src=https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/GFLAGS_NOTFOUND.png width="900" height="50"/>
-      - GFLAGS_LIBRARY_DEBUG -->
-      ../openpose/3rdparty/windows/caffe3rdparty/lib/gflagsd.lib
-      - GFLAGS_LIBRARY_RELEASE -->
-      ../openpose/3rdparty/windows/caffe3rdparty/lib/gflags.lib 
+      - GFLAGS_LIBRARY_DEBUG :
+      `../openpose/3rdparty/windows/caffe3rdparty/lib/gflagsd.lib`
+      - GFLAGS_LIBRARY_RELEASE :
+      `../openpose/3rdparty/windows/caffe3rdparty/lib/gflags.lib `
 
   - GLOG NOT FOUND:
     <img src=https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/GLOG_NOTFOUND.png width="900" height="50"/>
-      - GLOG_LIBRARY_DEBUG -->
-      ../openpose/3rdparty/windows/caffe3rdparty/lib/glogd.lib
-      - GLOG_LIBRARY_RELEASE -->
-      ../openpose/3rdparty/windows/caffe3rdparty/lib/glog.lib
+      - GLOG_LIBRARY_DEBUG :
+      `../openpose/3rdparty/windows/caffe3rdparty/lib/glogd.lib`
+      - GLOG_LIBRARY_RELEASE :
+      `../openpose/3rdparty/windows/caffe3rdparty/lib/glog.lib`
 
 ### Model Error
 
