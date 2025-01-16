@@ -96,7 +96,7 @@ When configuring and generating in CMake-GUI, you might encounter **"NOT FOUND"*
       `../openpose/3rdparty/windows/caffe3rdparty/lib/gflags.lib `
 
   - **GLOG NOT FOUND :**  
-    <img src=https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/GLOG_NOTFOUND.png width="900" height="50"/>
+    <img src=https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/GLOG_NOTFOUND.png width="80%" height="80%"/>
     
       - GLOG_LIBRARY_DEBUG :
       `../openpose/3rdparty/windows/caffe3rdparty/lib/glogd.lib`
