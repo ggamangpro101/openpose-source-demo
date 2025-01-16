@@ -22,12 +22,12 @@ This repository demonstrates how I used [CMU OpenPose](https://github.com/CMU-Pe
 ## Results
 2D Pose Estimation Test (Body, Hand, Face)
 <p align="center">
-  <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/gif/jm_golf_11.gif" width="300" height="200" />
-  <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/gif/hand_005.gif" width="300" height="200" />
+  <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/gif/jm_golf_011.gif" width="300" height="200" />
+  <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/gif/dance_001.gif" width="300" height="200" />
 </p>
 <p align="center">
-  <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/gif/movie_theater_face.gif" width="300" height="200" />
-  <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/gif/dance_001.gif" width="300" height="200" />
+  <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/gif/theater.gif" width="300" height="200" />
+  <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/gif/sign_lang_001.gif" width="300" height="200" />
 </p>
 
 ## Installation
