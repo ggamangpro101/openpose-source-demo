@@ -18,7 +18,19 @@ OpenPoseDemo.exe --hand --face --model_folder "(my_directory)/openpose/models"
 ex)
 OpenPoseDemo.exe --hand --face --model_folder "D:/my_Programming/openpose/models" 
 
-
+--Default(mp4 file)--
+D:\(my_directory)\openpose\build\x64\Release\OpenPoseDemo.exe ^
+    --video "(my_directory)\(file_name).mp4" ^
+    --write_video "(my_directory)\(file_name).avi" ^
+    --display 2 ^
+    --model_folder "(my_directory)\openpose\models"
+ex)
+D:\my_programming\openpose\build\x64\Release\OpenPoseDemo.exe ^
+    --video "D:\my_programming\DB-videos\sports\jm_golf_011.mp4" ^
+    --write_video "D:\my_programming\output\output_videos\jm_golf_011.avi" ^
+    --display 2 ^
+    --model_folder "D:\my_programming\openpose\models"
+	
 --face(mp4 file)--
 D:\(my_directory)\openpose\build\x64\Release\OpenPoseDemo.exe ^
     --video "(my_directory)\(file_name).mp4" ^
@@ -28,11 +40,11 @@ D:\(my_directory)\openpose\build\x64\Release\OpenPoseDemo.exe ^
     --model_folder "(my_directory)\openpose\models"
 ex)
 D:\my_programming\openpose\build\x64\Release\OpenPoseDemo.exe ^
-    --video "D:\gitHub\JKim-openpose-demo\videos\hand_005.mp4" ^
-    --write_video "D:\gitHub\JKim-openpose-demo\output\hand_005.avi" ^
+    --video "D:\my_programming\DB-videos\other\theater.mp4" ^
+    --write_video "D:\my_programming\output\output_videos\theater.avi" ^
     --display 2 ^
     --face ^
-    --model_folder "(my_directory)\openpose\models"
+    --model_folder "D:\my_programming\openpose\models"
 	
 --hand(mp4 file)--
 D:\my_programming\openpose\build\x64\Release\OpenPoseDemo.exe ^
@@ -43,8 +55,8 @@ D:\my_programming\openpose\build\x64\Release\OpenPoseDemo.exe ^
     --model_folder "(my_directory)\openpose\models"
 ex)	
 D:\my_programming\openpose\build\x64\Release\OpenPoseDemo.exe ^
-    --video "D:\gitHub\JKim-openpose-demo\videos\hand_005.mp4" ^
-    --write_video "D:\gitHub\JKim-openpose-demo\output\hand_005.avi" ^
+    --video "D:\my_programming\DB-videos\other\dance_001.mp4" ^
+    --write_video "D:\my_programming\output\output_videos\dance_001.avi" ^
     --display 2 ^
     --hand ^
     --model_folder "D:\my_programming\openpose\models"
@@ -59,8 +71,8 @@ D:\my_programming\openpose\build\x64\Release\OpenPoseDemo.exe ^
     --model_folder "(my_directory)\openpose\models"
 ex)	
 D:\my_programming\openpose\build\x64\Release\OpenPoseDemo.exe ^
-    --video "D:\my_programming\DB-videos\other\dance_001.mp4" ^
-    --write_video "D:\my_programming\output\output_videos\dance_001.avi" ^
+    --video "D:\my_programming\DB-videos\other\sign_lang_001.mp4" ^
+    --write_video "D:\my_programming\output\output_videos\sign_lang_001.avi" ^
     --display 2 ^
     --hand ^
     --face ^
