@@ -28,13 +28,19 @@ This repository demonstrates how I used [CMU OpenPose](https://github.com/CMU-Pe
  </figure>
  <figure>
   <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/gif/dance_001.gif" width="300" height="200" />
-  <figcaption>Golf Pose Estimation (Body)</figcaption>
+  <figcaption>Dance Pose Estimation (Body)</figcaption>
  </figure>
 </p>
 
 <p align="center">
+ <figure>
   <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/gif/theater.gif" width="300" height="200" />
+  <figcaption>Movie Theater Pose Estimation (Face)</figcaption>
+ </figure>
+ <figure>
   <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/gif/sign_lang_001.gif" width="300" height="200" />
+ <figcaption>Portrait Pose Estimation (Hand & Face)</figcaption>
+ </figure>
 </p>
 
 ## Installation
