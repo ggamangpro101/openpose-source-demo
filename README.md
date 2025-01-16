@@ -105,6 +105,7 @@ When configuring and generating in CMake-GUI, you might encounter **"NOT FOUND"*
       `../openpose/3rdparty/windows/caffe3rdparty/lib/glog.lib`
 
 ### Model Error
+The `getModels.bat` script in `D:\my_programming\openpose\models` may fail to download the required models due to connectivity issues or the server being unavailable. To resolve this, you need to download the [models](https://drive.google.com/file/d/1QCSxJZpnWvM00hx49CJ2zky7PWGzpcEh/edit) manually 
 
 ## Repository Contents
 - `openpose_quick_commands.txt`: Quick commands for running OpenPose.
