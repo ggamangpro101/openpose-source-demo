@@ -119,7 +119,7 @@ The `getModels.bat` script in `D:\my_programming\openpose\models` may fail to do
    getModels.bat failed due to no connection
 </p>
 
-When you manually download the `model.zip` file and extract it, follow these steps carefully to replace the `.caffemodel` files without affecting other essential files.  
+When you manually download the `model.zip` file and extract it, follow these steps carefully to replace the `.caffemodel` files without affecting other essential files, unless necessary for specific purposes.  
 
 **1. Unzip the Downloaded Model File**
    - Extract the model.zip file into a temporary folder.
