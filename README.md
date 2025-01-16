@@ -45,8 +45,8 @@ This repository demonstrates how I used [CMU OpenPose](https://github.com/CMU-Pe
 
 ## Download Dependencies
 When you navigate to `..\openpose_initial\3rdparty\windows`, you will see several `.bat` files. These batch files are used to download and configure third-party dependencies required by OpenPose. However, running these `.bat` files directly in the `Command Prompt` might fail because some of the referenced websites are no longer accessible. 
-<p>
-<img src=https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/GetCaffe3rdparty.bat_download_error.png width="80%" height="80%"/>
+<p align="center">
+<img src=https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/GetCaffe3rdparty.bat_download_error.png width="90%" height="90%"/>
 </p>
 
 Instead, download dependencies manually:
