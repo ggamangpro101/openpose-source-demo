@@ -29,7 +29,7 @@ This repository demonstrates how I used [CMU OpenPose](https://github.com/CMU-Pe
 
 <p align="center">
   <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/gif/theater.gif" width="300" height="200" />
-  <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/gif/sign_lang_001.gif" width="300" height="200" hspace="50" />
+  <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/gif/sign_lang_001.gif" width="300" height="200" hspace="50" /> <br>
   <em>Pose Estimation(Face) & Pose Estimation(Hand&Face)</em> 
 </p>
 
