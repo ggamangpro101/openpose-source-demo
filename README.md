@@ -129,10 +129,11 @@ When you manually download the `model.zip` file and extract it, follow these ste
    - For `Pose Models`: Under `body_25`, ensure `.prototxt` files remain untouched in: `..\openpose\models\pose\body_25`
 
 **4. Avoid Confusion with New Files**
-   - Do not copy extra files from the extracted model.zip that do not belong to the corresponding directories.
-   - Double-check that only the .caffemodel files are replaced.
+   - Do not copy extra files from the extracted `model.zip` that do not belong to the corresponding directories.
+   - Double-check that only the `.caffemodel` files are replaced.  
+
 **5. Test the Setup**
-   - After replacing the .caffemodel files, run OpenPose to confirm the models load correctly and there are no missing file errors.
+   - After replacing the `.caffemodel` files, run OpenPose to confirm the models load correctly and there are no missing file errors.
 
 ## Repository Contents
 - `openpose_quick_commands.txt`: Quick commands for running OpenPose.
