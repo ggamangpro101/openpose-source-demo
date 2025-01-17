@@ -9,7 +9,7 @@ When configuring and generating in CMake-GUI, you might encounter **"NOT FOUND"*
 
 When you navigate to `..\openpose\3rdparty\windows`, opening any `.zip` file or running a `.bat` file may result in an empty file or a failure to download the required dependencies due to connectivity issues or an unavailable server. To resolve this, you need to download the [dependencies](https://drive.google.com/file/d/1WvftDLLEwAxeO2A-n12g5IFtfLbMY9mG/edit) manually and extract them into the `..\openpose\3rdparty\windows` directory. After extraction, you should see a `3rdParty` directory. Navigate to `../3rdParty/windows` and you should see:
 
-<img src=https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/png/extrated_3rdParty.png width=90% height=50% />
+<img src=https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/png/extrated_3rdParty.png width=50% height=50% />
 
 
   - **BOOST NOT FOUND :**   
