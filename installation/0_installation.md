@@ -64,6 +64,6 @@ This guide provides detailed steps for installing OpenPose. Follow these instruc
 **Test OpenPose Examples**
   - Navigate to `..openpose\build\x64\Release`
   - Run one of the example scripts to test your installation. For example:
-    ```
-    OpenPoseDemo.exe --model_folder "(my_directory)/openpose/models"
-    ```
+```
+OpenPoseDemo.exe --model_folder "(my_directory)/openpose/models"
+```
