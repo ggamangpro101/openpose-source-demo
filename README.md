@@ -43,6 +43,7 @@ This repository demonstrates my personal project where I compiled and ran [CMU O
 3. Configure OpenPose with CMake
 4. Build OpenPose
 5. Verify/Test Installation
+
 Refer to [0_installation.md](https://github.com/ggamangpro101/openpose-source-demo/blob/master/installation/0_installation.md)
 
 ## Download Dependencies
