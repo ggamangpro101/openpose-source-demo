@@ -1,8 +1,12 @@
 ## Installation
-1. Download OpenPose from [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) in to working directory.
+1. Download OpenPose Repository from [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
    <img src ="https://github.com/ggamangpro101/openpose-source-demo/blob/master/installation/png/download_repo.png" width=70% height=70% />
    1. Navigate to your working directory
-      - Option 1: `git clone https://github.com/CMU-Perceptual-Computing-Lab/openpose.git` in your terminal or command prompt
+   2. Choose one of the following methods to download OpenPose:
+      - Option 1: git clone the rpeository in your terminal or command prompt
+        ```
+        git clone https://github.com/CMU-Perceptual-Computing-Lab/openpose.git
+        ```
         <img src ="https://github.com/ggamangpro101/openpose-source-demo/blob/master/installation/png/git_clone.png" width=70% height=70% />
       - Option 2: Click **Download ZIP** and unzip `openpose-master.zip` in your working directory
        
