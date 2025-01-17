@@ -81,6 +81,7 @@ For detailed installation guide, refer to [Error Handling Guide](https://github.
 ## Repository Contents
 - `openpose_quick_commands.txt`: Quick commands for running OpenPose.
 
+### DLL Error
 
 ## Runtime Analysis
 
