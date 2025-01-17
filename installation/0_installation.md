@@ -1,7 +1,7 @@
 ## Installation Guide for OpenPose
 This guide provides detailed steps for installing OpenPose. Follow these instructions carefully to set up the environment.
 
-**1. Download OpenPose Repository from [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)** <br>
+### 1. Download OpenPose Repository from [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
    1. Navigate to your working directory <br>
    2. Choose one of the following methods to download OpenPose: <br>
       - Option 1: git clone the rpeository
@@ -10,7 +10,7 @@ This guide provides detailed steps for installing OpenPose. Follow these instruc
         ```
        - Option 2: Click **Download ZIP** and unzip `openpose-master.zip` in your working directory
        
-**2. Install Required Tools and Libraries**
+### 2. Install Required Tools and Libraries
    1. Visit [CMake-GUI](https://cmake.org/download/) and download the appropriate version for your operating system.
    2. Download [CUDA](https://developer.nvidia.com/cuda-toolkit-archive) and [cuDNN](https://developer.nvidia.com/rdp/cudnn-archive)
       - Check compatibility
