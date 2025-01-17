@@ -17,7 +17,7 @@ This guide provides detailed steps for installing OpenPose. Follow these instruc
         - [CUDA Wikipedia Page](https://en.wikipedia.org/wiki/CUDA)
         - [NVIDIA CUDA GPUs Compatibility](https://developer.nvidia.com/cuda-gpus#compute)
 
-**3. Configure OpenPose with CMake**
+### 3. Configure OpenPose with CMake
    1. Create "build" folder
       - Navigate to the `openpose` directory
       - Create a folder named `build` inside the `openpose` folder
@@ -27,11 +27,12 @@ This guide provides detailed steps for installing OpenPose. Follow these instruc
         - **Where is the source code:** Browse to the root `openpose` folder
         - **Where to build the binaries:** Browse to the newly created `build` folder
    3. Configure the Project
-      - Click **Configure** and select your preferred compiler (e.g. Visual Studio 16 2019)
-   4. Common Errors During Configuration
-      - 
-        
-   5. Generate Build Files
+        - Click **Configure** and select your preferred compiler (e.g. Visual Studio 16 2019)        
+   4. Error during configuration
+   <p align="Center">
+   <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/installation/png/cmake_generate_error.png" width=80% height=80% />
+   </p>   
+   6. Generate Build Files
       - After configuration is complete, click **Generate** to create the build files
    <p align="Center">
    <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/installation/png/cmake_gui.png" width=80% height=80% />
