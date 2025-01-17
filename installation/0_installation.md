@@ -24,3 +24,7 @@
       - Set the followings:
         - **Where is the source code:** Browse to the root `openpose` folder
         - **Where to build the binaries:** Browse to the newly created `build` folder
+   3. Configure the Project
+      - Click **Configure** and select your preferred compiler (e.g. Visual Studio 16 2019)
+   4. Generate Build Files
+      - After configuration is complete, click **Generate** to create the build files
