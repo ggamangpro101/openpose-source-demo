@@ -39,3 +39,9 @@ This guide provides detailed steps for installing OpenPose. Follow these instruc
       </p>
    6. Generate Build Files
       - After configuration is complete, click **Generate** to create the build files
+
+## 4. Build OpenPose
+   1. Open the Build System
+   For Windows:
+      - Open the `openpose.sln` file in Visual Studio
+   3. Compile the Code 
