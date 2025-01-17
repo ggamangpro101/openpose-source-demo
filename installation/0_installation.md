@@ -52,6 +52,10 @@ This guide provides detailed steps for installing OpenPose. Follow these instruc
 **1. Open the Build System** <br>
 
   For Windows:  
-   - Open the `openpose.sln` file in Visual Studio
+   - Open the `openpose.sln` file in `../openpose/build` with Visual Studio
 
 **2. Compile the Code**
+
+  For Visual Studio:
+   - Select **Release** mode in the build configuration
+  
