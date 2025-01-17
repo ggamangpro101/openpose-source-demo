@@ -2,7 +2,7 @@
 ### CMake-GUI “NOT FOUND” Error
 When configuring and generating in CMake-GUI, you might encounter **"NOT FOUND"** errors for dependencies such as `Boost`, `Caffe`, `GFlags`, or `GLog`. These errors occur because the required `.lib` files are missing or their paths are not set correctly.  
   - **BOOST NOT FOUND :**   
-    <img src=https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/BOOST_NOTFOUND.png width=90% height=90% />
+    <img src=https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/png/BOOST_NOTFOUND.png width=90% height=90% />
      
      - BOOST_FILESYSTEM_LIB_DEBUG :  
      `../openpose/3rdparty/windows/caffe3rdparty/lib/boost_filesystem-vc142-mt-gd-x64-1_74.lib`
@@ -17,7 +17,7 @@ When configuring and generating in CMake-GUI, you might encounter **"NOT FOUND"*
      `../openpose/3rdparty/windows/caffe3rdparty/lib/boost_system-vc142-mt-x64-1_74.lib`
 
   - **Caffe NOT FOUND :**  
-    <img src=https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/Caffe_NOTFOUND.png width=90% height=90%/>
+    <img src=https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/png/Caffe_NOTFOUND.png width=90% height=90%/>
     
       - Caffe_LIB_DEBUG :
       `../openpose/3rdparty/windows/caffe/lib/caffe-d.lib`
@@ -32,7 +32,7 @@ When configuring and generating in CMake-GUI, you might encounter **"NOT FOUND"*
       `../openpose/3rdparty/windows/caffe/lib/caffeproto.lib`
 
   - **GFLAGS NOT FOUND :**  
-    <img src=https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/GFLAGS_NOTFOUND.png width="90%" height="90%"/>
+    <img src=https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/png/GFLAGS_NOTFOUND.png width="90%" height="90%"/>
     
       - GFLAGS_LIBRARY_DEBUG :
       `../openpose/3rdparty/windows/caffe3rdparty/lib/gflagsd.lib`
@@ -41,7 +41,7 @@ When configuring and generating in CMake-GUI, you might encounter **"NOT FOUND"*
       `../openpose/3rdparty/windows/caffe3rdparty/lib/gflags.lib `
 
   - **GLOG NOT FOUND :**  
-    <img src=https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/GLOG_NOTFOUND.png width=90% height=90%/>
+    <img src=https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/png/GLOG_NOTFOUND.png width=90% height=90%/>
     
       - GLOG_LIBRARY_DEBUG :
       `../openpose/3rdparty/windows/caffe3rdparty/lib/glogd.lib`
