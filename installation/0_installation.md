@@ -62,7 +62,7 @@ This guide provides detailed steps for installing OpenPose. Follow these instruc
    - click **Build > Build Solution (Ctrl+Shift+B)** <br>
    - If the build is successful, you will see a mesage similar to: <br>
    <p align="center">
-   <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/installation/png/build_success.png" width=75% height=75% />     
+   <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/installation/png/build_success.png" width=90% height=90% />     
    </p>
 
 ## 5. Verify Installation
