@@ -16,6 +16,7 @@ This repository demonstrates my personal project where I compiled and ran [CMU O
 4. [Error Handling](#Error-Handling)
    - [CMake-GUI “NOT FOUND” Error](#cmake-gui-not-found-error)
    - [Model Error](#model-error)
+   - [DLL Error](#dll-error)
 6. [License](#license)
 
 ## Results
@@ -95,7 +96,7 @@ Person 1:
     - Keypoint 25: (x=419.486, y=1634.69, confidence=0.848233)
 ```
 
-### Movement Analysis (Right Elbow)
+### Movement Analysis (e.g. Right Elbow)
 <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/results/jm_golf_004/04_right_elbow/plot_movement_analysis_right_elbow.png" />
 
 
