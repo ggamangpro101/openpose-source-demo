@@ -1,9 +1,10 @@
-## Error Handling Guide
+# Error Handling Guide
 **Contents:**
 - [CMake-GUI “NOT FOUND” Error](#cmake-gui-not-found-error)
 - [Model Error](#model-error)
+- [DLL Error](#dll-error)
 
-### CMake-GUI “NOT FOUND” Error
+## CMake-GUI “NOT FOUND” Error
 When configuring and generating in CMake-GUI, you might encounter **"NOT FOUND"** errors for dependencies such as `Boost`, `Caffe`, `GFlags`, or `GLog`. These errors occur because the required `.lib` files are missing or their paths are not set correctly.  
   - **BOOST NOT FOUND :**   
     <img src=https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/png/BOOST_NOTFOUND.png width=90% height=90% />
@@ -53,7 +54,7 @@ When configuring and generating in CMake-GUI, you might encounter **"NOT FOUND"*
       - GLOG_LIBRARY_RELEASE :
       `../openpose/3rdparty/windows/caffe3rdparty/lib/glog.lib`
 
-### Model Error
+## Model Error
 The `getModels.bat` script in `D:\my_programming\openpose\models` may fail to download the required models due to connectivity issues or the server being unavailable. To resolve this, you need to download the [models](https://drive.google.com/file/d/1QCSxJZpnWvM00hx49CJ2zky7PWGzpcEh/edit) manually.
 <p align="center">
    <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/png/getModels.bat_download_error.png" /> <br>
@@ -84,3 +85,5 @@ When you manually download the `model.zip` file and extract it, follow these ste
 
 **5. Test the Setup**
    - After replacing the `.caffemodel` files, run OpenPose to confirm the models load correctly and there are no missing file errors.
+
+## DLL Error
