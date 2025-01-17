@@ -44,7 +44,7 @@ This repository demonstrates my personal project where I compiled and ran [CMU O
 4. Build OpenPose
 5. Verify/Test Installation
 
-Refer to [Installation Guide](https://github.com/ggamangpro101/openpose-source-demo/blob/master/installation/0_installation.md)
+For detailed installation, refer to [Installation Guide](https://github.com/ggamangpro101/openpose-source-demo/blob/master/installation/0_installation.md)
 
 ## Download Dependencies
 When you navigate to `..\openpose_initial\3rdparty\windows`, you will see several `.bat` files. These batch files are used to download and configure third-party dependencies required by OpenPose. However, running these `.bat` files directly in the `Command Prompt` might fail because some of the referenced websites are no longer accessible. 
