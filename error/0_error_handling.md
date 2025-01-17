@@ -19,7 +19,7 @@ After extraction, set the appropriate paths to these dependencies in your enviro
 
   - **BOOST NOT FOUND :**
     <p align="center">   
-    <img src=https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/png/BOOST_NOTFOUND.png width=80% height=80% />
+    <img src=https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/png/BOOST_NOTFOUND.png width=85% height=85% />
     </p>
      
      - BOOST_FILESYSTEM_LIB_DEBUG :  
@@ -36,7 +36,7 @@ After extraction, set the appropriate paths to these dependencies in your enviro
 
   - **Caffe NOT FOUND :**  
     <p align="center">
-    <img src=https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/png/Caffe_NOTFOUND.png width=80% height=80%/>
+    <img src=https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/png/Caffe_NOTFOUND.png width=85% height=85%/>
     </p>
     
       - Caffe_LIB_DEBUG :
@@ -53,7 +53,7 @@ After extraction, set the appropriate paths to these dependencies in your enviro
 
   - **GFLAGS NOT FOUND :**  
     <p align="center">
-    <img src=https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/png/GFLAGS_NOTFOUND.png width="80%" height="80%"/>
+    <img src=https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/png/GFLAGS_NOTFOUND.png width="85%" height="85%"/>
     </p>
     
       - GFLAGS_LIBRARY_DEBUG :
@@ -64,7 +64,7 @@ After extraction, set the appropriate paths to these dependencies in your enviro
 
   - **GLOG NOT FOUND :**  
     <p align="center">
-    <img src=https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/png/GLOG_NOTFOUND.png width=80% height=80%/>
+    <img src=https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/png/GLOG_NOTFOUND.png width=85% height=85%/>
     </p>
     
       - GLOG_LIBRARY_DEBUG :
@@ -75,7 +75,7 @@ After extraction, set the appropriate paths to these dependencies in your enviro
 
   - **OpenCV NOT FOUND :**
     <p align="center">
-    <img src=https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/png/OpenCV_NOTFOUND.png width=80% height=80% />
+    <img src=https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/png/OpenCV_NOTFOUND.png width=85% height=85% />
     </p>
 
 After setting all the required paths, reconfigure and generate the build. You should see the messages **'Configuring done'** and **'Generating done'** successfully.
