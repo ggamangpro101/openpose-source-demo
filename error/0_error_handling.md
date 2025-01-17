@@ -15,8 +15,10 @@ When you navigate to `..\openpose\3rdparty\windows`, opening any `.zip` file or 
 Copy the necessary `.zip` files into `..\openpose\3rdparty\windows`. To address errors such as `boost`, `caffe`, `gflags`, `glog`, or `opencv` NOTFOUND, specifically copy `caffe3rdpart_16_2020_11_14.zip` and `opencv_450_v15_2020_11_18.zip` into the `..\openpose\3rdparty\windows` directory and extract them.
 
 
-  - **BOOST NOT FOUND :**   
+  - **BOOST NOT FOUND :**
+    <p align="center">   
     <img src=https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/png/BOOST_NOTFOUND.png width=90% height=90% />
+    </p>
      
      - BOOST_FILESYSTEM_LIB_DEBUG :  
      `../openpose/3rdparty/windows/caffe3rdparty/lib/boost_filesystem-vc142-mt-gd-x64-1_74.lib`
