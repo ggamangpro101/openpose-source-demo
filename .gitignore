@@ -1,4 +1,4 @@
 # Ignore all .gif and .png files
 *.gif
-*.png
-*.json
+#*.png
+#*.json
