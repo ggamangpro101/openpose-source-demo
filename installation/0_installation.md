@@ -12,8 +12,8 @@ git clone https://github.com/CMU-Perceptual-Computing-Lab/openpose.git
 
 
 ## 2. Install Required Tools and Libraries
-**1. Visit [CMake-GUI](https://cmake.org/download/) and download the appropriate version for your operating system.**
-**2. Download [CUDA](https://developer.nvidia.com/cuda-toolkit-archive) and [cuDNN](https://developer.nvidia.com/rdp/cudnn-archive)**
+**1. Visit [CMake-GUI](https://cmake.org/download/) and download the appropriate version for your operating system.** <br>
+**2. Download [CUDA](https://developer.nvidia.com/cuda-toolkit-archive) and [cuDNN](https://developer.nvidia.com/rdp/cudnn-archive)** <br>
 - Check compatibility
   - [CUDA Wikipedia Page](https://en.wikipedia.org/wiki/CUDA)
   - [NVIDIA CUDA GPUs Compatibility](https://developer.nvidia.com/cuda-gpus#compute)
