@@ -1,7 +1,7 @@
 ## Error Handling
 **Contents:**
-[CMake-GUI “NOT FOUND” Error](#cmake-gui-not-found-error)
-[Model Error](#model-error)
+- [CMake-GUI “NOT FOUND” Error](#cmake-gui-not-found-error)
+- [Model Error](#model-error)
 
 ### CMake-GUI “NOT FOUND” Error
 When configuring and generating in CMake-GUI, you might encounter **"NOT FOUND"** errors for dependencies such as `Boost`, `Caffe`, `GFlags`, or `GLog`. These errors occur because the required `.lib` files are missing or their paths are not set correctly.  
