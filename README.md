@@ -33,6 +33,7 @@ This repository demonstrates my personal project where I compiled and ran [CMU O
 </p>
 
 ## Installation
+Reference [0_installation.md](https://github.com/ggamangpro101/openpose-source-demo/blob/master/installation/0_installation.md)
 1. Download OpenPose from [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) in to working directory.
 2. Download [CMake-GUI](https://cmake.org/download/)
 3. Download [CUDA](https://developer.nvidia.com/cuda-toolkit-archive) and [cuDNN](https://developer.nvidia.com/rdp/cudnn-archive)
@@ -40,10 +41,6 @@ This repository demonstrates my personal project where I compiled and ran [CMU O
      https://en.wikipedia.org/wiki/CUDA
      https://developer.nvidia.com/cuda-gpus#compute
 4. Open CMake-GUI
-   - Create "build" folder in "openpose" folder
-     <br>
-     <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/installation/create_build_folder_zoom.png" width=70% height=70% />
-
 
 ## Download Dependencies
 When you navigate to `..\openpose_initial\3rdparty\windows`, you will see several `.bat` files. These batch files are used to download and configure third-party dependencies required by OpenPose. However, running these `.bat` files directly in the `Command Prompt` might fail because some of the referenced websites are no longer accessible. 
