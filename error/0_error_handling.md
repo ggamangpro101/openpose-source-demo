@@ -6,7 +6,7 @@
 
 ## CMake-GUI “NOT FOUND” Error
 When configuring and generating in CMake-GUI, you might encounter **"NOT FOUND"** errors for dependencies such as `Boost`, `Caffe`, `GFlags`, `GLog` or `OpenCV`. These errors occur because the required `.lib` files are missing or their paths are not set correctly.  
-When you navigate to `..\openpose\3rdparty\windows`, if you open any `.zip` file or run `.bat` file, it is empty or fail to download the required dependencies due to connectivity issues or the server being unavailable.
+When you navigate to `..\openpose\3rdparty\windows`, opening any .zip file or running a .bat file may result in an empty file or a failure to download the required dependencies due to connectivity issues or an unavailable server.
 
   - **BOOST NOT FOUND :**   
     <img src=https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/png/BOOST_NOTFOUND.png width=90% height=90% />
