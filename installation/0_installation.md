@@ -1,6 +1,6 @@
 ## Installation
 1. Download OpenPose from [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) in to working directory.
-   - Click Download.zip or git clone https://github.com/CMU-Perceptual-Computing-Lab/openpose.git
+   - Click Download ZIP or `git clone https://github.com/CMU-Perceptual-Computing-Lab/openpose.git` in directory command prompt
      <img src =""/>
 3. Download [CMake-GUI](https://cmake.org/download/)
 4. Download [CUDA](https://developer.nvidia.com/cuda-toolkit-archive) and [cuDNN](https://developer.nvidia.com/rdp/cudnn-archive)
