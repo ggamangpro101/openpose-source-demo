@@ -16,6 +16,13 @@
         - [NVIDIA CUDA GPUs Compatibility](https://developer.nvidia.com/cuda-gpus#compute)
 
 3. Configure OpenPose with CMake
-   - Create "build" folder in "openpose" folder
+   1. Create "build" folder
+      - Navigate to the `openpose` directory
+      - Create a folder named `build` inside the `openpose` folder
+   2. Open CMake-GUI
+      - Launch the CMake GUI application
+      - Set the followings:
+        - **Where is the source code:** Browse to the root `openpose` folder
+        - **Where to build the binaries:** Browse to the newly created `build` folder
      <br>
      <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/installation/png/create_build_folder.png" width=70% height=70% />
