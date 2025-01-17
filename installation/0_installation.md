@@ -58,7 +58,7 @@ This guide provides detailed steps for installing OpenPose. Follow these instruc
 **2. Compile the Code**
 
   For Visual Studio:
-   - Select **Release** mode in the build configuration
+   - Select **Release, x64** mode in the build configuration
 
 
 ## 5. Verify Installation
