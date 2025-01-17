@@ -1,4 +1,4 @@
-## Error Handling
+## Error Handling Guide
 **Contents:**
 - [CMake-GUI “NOT FOUND” Error](#cmake-gui-not-found-error)
 - [Model Error](#model-error)
