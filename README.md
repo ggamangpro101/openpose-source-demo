@@ -78,10 +78,12 @@ When you manually download the `model.zip` file and extract it, follow these ste
 
 For detailed installation guide, refer to [Error Handling Guide](https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/0_error_handling.md)
 
+### DLL Error
+
+
 ## Repository Contents
 - `openpose_quick_commands.txt`: Quick commands for running OpenPose.
 
-### DLL Error
 
 ## Runtime Analysis
 
