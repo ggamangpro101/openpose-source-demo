@@ -8,12 +8,14 @@
         ```
       - Option 2: Click **Download ZIP** and unzip `openpose-master.zip` in your working directory
        
-3. Download [CMake-GUI](https://cmake.org/download/)
-4. Download [CUDA](https://developer.nvidia.com/cuda-toolkit-archive) and [cuDNN](https://developer.nvidia.com/rdp/cudnn-archive)
-   - Check compatibility
-     https://en.wikipedia.org/wiki/CUDA
-     https://developer.nvidia.com/cuda-gpus#compute
-5. Open CMake-GUI
+2. Install Required Tools and Libraries
+   1. Visit [CMake-GUI](https://cmake.org/download/) and download the appropriate version for your operating system.
+   2. Download [CUDA](https://developer.nvidia.com/cuda-toolkit-archive) and [cuDNN](https://developer.nvidia.com/rdp/cudnn-archive)
+      - Check compatibility
+        - [CUDA Wikipedia Page](https://en.wikipedia.org/wiki/CUDA)
+        - [NVIDIA CUDA GPUs Compatibility](https://developer.nvidia.com/cuda-gpus#compute)
+
+3. Configure OpenPose with CMake
    - Create "build" folder in "openpose" folder
      <br>
      <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/installation/png/create_build_folder.png" width=70% height=70% />
