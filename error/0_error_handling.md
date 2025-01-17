@@ -56,32 +56,26 @@ After extraction, set the appropriate paths to these dependencies in your enviro
     <img src=https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/png/GFLAGS_NOTFOUND.png width="85%" height="85%"/>
     </p>
     
-      - GFLAGS_LIBRARY_DEBUG :
-      `../openpose/3rdparty/windows/caffe3rdparty/lib/gflagsd.lib`
+      - GFLAGS_LIBRARY_DEBUG : `../openpose/3rdparty/windows/caffe3rdparty/lib/gflagsd.lib`
 
-      - GFLAGS_LIBRARY_RELEASE :
-      `../openpose/3rdparty/windows/caffe3rdparty/lib/gflags.lib `
+      - GFLAGS_LIBRARY_RELEASE : `../openpose/3rdparty/windows/caffe3rdparty/lib/gflags.lib `
 
   - **GLOG NOT FOUND :**  
     <p align="center">
     <img src=https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/png/GLOG_NOTFOUND.png width=85% height=85%/>
     </p>
     
-      - GLOG_LIBRARY_DEBUG :
-      `../openpose/3rdparty/windows/caffe3rdparty/lib/glogd.lib`
+      - GLOG_LIBRARY_DEBUG : `../openpose/3rdparty/windows/caffe3rdparty/lib/glogd.lib`
 
-      - GLOG_LIBRARY_RELEASE :
-      `../openpose/3rdparty/windows/caffe3rdparty/lib/glog.lib`
+      - GLOG_LIBRARY_RELEASE : `../openpose/3rdparty/windows/caffe3rdparty/lib/glog.lib`
 
   - **OpenCV NOT FOUND :**
     <p align="center">
     <img src=https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/png/OpenCV_NOTFOUND.png width=85% height=85% />
     </p>
     
-     - OpenCV_LIBS_DEBUG :  
-     `..\openpose\3rdparty\windows\opencv\x64\vc15\lib`
-     - OpenCV_LIBs_RELEASE :
-     `..openpose\3rdparty\windows\opencv\x64\vc15\lib`
+     - OpenCV_LIBS_DEBUG : `..\openpose\3rdparty\windows\opencv\x64\vc15\lib`
+     - OpenCV_LIBs_RELEASE : `..openpose\3rdparty\windows\opencv\x64\vc15\lib`
       
 After setting all the required paths, reconfigure and generate the build. You should see the messages **'Configuring done'** and **'Generating done'** successfully.
 <p align="center">
