@@ -24,5 +24,3 @@
       - Set the followings:
         - **Where is the source code:** Browse to the root `openpose` folder
         - **Where to build the binaries:** Browse to the newly created `build` folder
-     <br>
-     <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/installation/png/create_build_folder.png" width=70% height=70% />
