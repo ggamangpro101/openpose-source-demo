@@ -29,7 +29,7 @@ This guide provides detailed steps for installing OpenPose. Follow these instruc
    3. Configure the Project
         - Click **Configure** and select your preferred compiler (e.g. Visual Studio 16 2019)
           <p align="Center">
-          <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/installation/png/cmake_gui.png" width=80% height=80% />
+          <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/installation/png/cmake_gui.png" width=75% height=75% />
           </p>     
    4. Error during configuration
    <p align="Center">
