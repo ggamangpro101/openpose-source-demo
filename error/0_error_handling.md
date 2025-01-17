@@ -77,6 +77,13 @@ After extraction, set the appropriate paths to these dependencies in your enviro
     <img src=https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/png/OpenCV_NOTFOUND.png width=90% height=90% />
     </p>
 
+After setting all the required paths, reconfigure and generate the build. You should see the messages **'Configuring done'** and **'Generating done'** successfully.
+<p align="center">
+   <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/png/CMake_complete.png" /> <br>
+   <sup>getModels.bat failed due to no connection</sup>
+</p>
+
+
 ## Model Error
 The `getModels.bat` script in `D:\my_programming\openpose\models` may fail to download the required models due to connectivity issues or the server being unavailable. To resolve this, you need to download the [models](https://drive.google.com/file/d/1QCSxJZpnWvM00hx49CJ2zky7PWGzpcEh/edit) manually.
 <p align="center">
