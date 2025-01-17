@@ -1,0 +1,3 @@
+# Ignore all .gif and .png files
+*.gif
+*.png
