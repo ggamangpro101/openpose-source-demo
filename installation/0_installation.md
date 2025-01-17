@@ -49,7 +49,7 @@ This guide provides detailed steps for installing OpenPose. Follow these instruc
 
 
 ## 4. Build OpenPose
-**1. Open the Build System**
+**1. Open the Build System** <br>
   For Windows:  
    - Open the `openpose.sln` file in Visual Studio
 
