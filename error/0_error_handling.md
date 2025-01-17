@@ -120,9 +120,9 @@ When you manually download the `model.zip` file and extract it, follow these ste
 ## DLL Error
 If you encounter a DLL error while running `OpenPoseDemo.exe --model_folder "(your_directory)\openpose\models"` such as:
 <p align="center">
-   <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/png/gflags.dll_error.png" width=30% height=30% />
-   <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/png/glog.dll_error.png" width=30% height=30% />
-   <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/png/opencv_world450.dll_error.png" width=30% height=30% /> <br>
+   <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/png/gflags.dll_error.png" width=40% height=40% />
+   <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/png/glog.dll_error.png" width=45% height=45% />
+   <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/png/opencv_world450.dll_error.png" width=40% height=40% /> <br>
    <sup>Common DLL Errors Encountered When Running OpenPoseDemo.exe</sup>
 </p>
 copy all `.dll` files from `..\openpose\build\bin` to `..\openpose\build\x64\Release` for convenience.
