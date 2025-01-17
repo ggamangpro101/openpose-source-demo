@@ -8,4 +8,4 @@
 4. Open CMake-GUI
    - Create "build" folder in "openpose" folder
      <br>
-     <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/installation/create_build_folder_zoom.png" width=70% height=70% />
+     <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/installation/png/create_build_folder.png" width=70% height=70% />
