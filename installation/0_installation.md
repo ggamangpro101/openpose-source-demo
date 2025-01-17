@@ -21,16 +21,16 @@ git clone https://github.com/CMU-Perceptual-Computing-Lab/openpose.git
 
 ## 3. Configure OpenPose with CMake
 **1. Create "build" folder** <br>
-  - Navigate to the `openpose` directory
+  - Navigate to the `openpose` directory <br>
   - Create a folder named `build` inside the `openpose` folder <br>
 **2. Open CMake-GUI** <br>
-  - Launch the CMake GUI application
-  - Set the followings:
-    - **Where is the source code:** Browse to the root `openpose` folder
+  - Launch the CMake GUI application <br>
+  - Set the followings: <br>
+    - **Where is the source code:** Browse to the root `openpose` folder <br>
     - **Where to build the binaries:** Browse to the newly created `build` folder <br>
 **3. Configure the Project** <br>
-  - Click **Configure** and select your preferred compiler (e.g. Visual Studio 16 2019, x64)
-  <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/installation/png/cmake_gui.png" width=75% height=75% />
+  - Click **Configure** and select your preferred compiler (e.g. Visual Studio 16 2019, x64) <br>
+  <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/installation/png/cmake_gui.png" width=75% height=75% /> <br>
 
 
 **4. Error during configuration**
