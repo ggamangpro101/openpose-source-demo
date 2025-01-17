@@ -44,7 +44,7 @@ This repository demonstrates my personal project where I compiled and ran [CMU O
 4. Build OpenPose
 5. Verify/Test Installation
 
-For detailed installation, refer to [Installation Guide](https://github.com/ggamangpro101/openpose-source-demo/blob/master/installation/0_installation.md)
+For detailed installation guide, refer to [Installation Guide](https://github.com/ggamangpro101/openpose-source-demo/blob/master/installation/0_installation.md)
 
 ## Download Dependencies
 When you navigate to `..\openpose_initial\3rdparty\windows`, you will see several `.bat` files. These batch files are used to download and configure third-party dependencies required by OpenPose. However, running these `.bat` files directly in the `Command Prompt` might fail because some of the referenced websites are no longer accessible. 
@@ -76,6 +76,7 @@ When configuring and generating in CMake-GUI, you might encounter **"NOT FOUND"*
 The `getModels.bat` script in `D:\my_programming\openpose\models` may fail to download the required models due to connectivity issues or the server being unavailable. To resolve this, you need to download the [models](https://drive.google.com/file/d/1QCSxJZpnWvM00hx49CJ2zky7PWGzpcEh/edit) manually. <br>
 When you manually download the `model.zip` file and extract it, follow these steps carefully to replace the `.caffemodel` files without affecting other essential files, unless necessary for specific purposes.  
 
+For detailed installation guide, refer to [Error Handling Guide](https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/0_error_handling.md)
 
 ## Repository Contents
 - `openpose_quick_commands.txt`: Quick commands for running OpenPose.
