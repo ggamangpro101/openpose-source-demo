@@ -12,7 +12,7 @@ When you navigate to `..\openpose\3rdparty\windows`, opening any `.zip` file or 
 <img src=https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/png/extrated_3rdParty.png width=70% height=70% />
 </p>
 
-Copy the necessary `.zip` files into `..\openpose\3rdparty\windows`. To address errors such as `boost`, `caffe`, `gflags`, `glog`, or `opencv` NOTFOUND, specifically copy `caffe3rdpart_16_2020_11_14.zip` and `opencv_450_v15_2020_11_18.zip` into the `..\openpose\3rdparty\windows` directory and extract them.
+Copy the necessary `.zip` files into `..\openpose\3rdparty\windows`. To address errors such as `boost`, `caffe`, `gflags`, `glog`, or `opencv` NOTFOUND, specifically copy `caffe_16_2020_11_14.zip`, `caffe3rdpart_16_2020_11_14.zip` and `opencv_450_v15_2020_11_18.zip` into the `..\openpose\3rdparty\windows` directory and extract them.
 
 After extraction, set the appropriate paths to these dependencies in your environment variables or build configuration to ensure they are correctly linked during the OpenPose build process.
 
