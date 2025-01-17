@@ -3,9 +3,10 @@
    <img src ="https://github.com/ggamangpro101/openpose-source-demo/blob/master/installation/png/download_repo.png" width=70% height=70% />
    1. Navigate to your working directory
    2. Choose one of the following methods to download OpenPose:
-      - Option 1: git clone the rpeository in your terminal or command prompt
+      - Option 1: git clone the rpeository
         ```
         git clone https://github.com/CMU-Perceptual-Computing-Lab/openpose.git
+        # in your terminal or command prompt
         ```
         <img src ="https://github.com/ggamangpro101/openpose-source-demo/blob/master/installation/png/git_clone.png" width=70% height=70% />
       - Option 2: Click **Download ZIP** and unzip `openpose-master.zip` in your working directory
