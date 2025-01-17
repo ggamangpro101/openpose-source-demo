@@ -5,9 +5,9 @@ This guide provides detailed steps for installing OpenPose. Follow these instruc
    1. Navigate to your working directory <br>
    2. Choose one of the following methods to download OpenPose: <br>
       - Option 1: git clone the rpeository
-       ```
-       git clone https://github.com/CMU-Perceptual-Computing-Lab/openpose.git
-       ```
+        ```
+        git clone https://github.com/CMU-Perceptual-Computing-Lab/openpose.git
+        ```
        - Option 2: Click **Download ZIP** and unzip `openpose-master.zip` in your working directory
        
 **2. Install Required Tools and Libraries**
