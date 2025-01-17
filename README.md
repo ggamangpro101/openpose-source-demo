@@ -49,7 +49,7 @@ For detailed installation, refer to [Installation Guide](https://github.com/ggam
 ## Download Dependencies
 When you navigate to `..\openpose_initial\3rdparty\windows`, you will see several `.bat` files. These batch files are used to download and configure third-party dependencies required by OpenPose. However, running these `.bat` files directly in the `Command Prompt` might fail because some of the referenced websites are no longer accessible. 
 <p align="center">
-   <img src=https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/png/GetCaffe3rdparty.bat_download_error.png /> <br>
+   <img src=https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/png/getCaffe3rdparty.bat_download_error.png /> <br>
    <sup>getCaffe3rdparty.bat failed due to no connection</sup>
 </p>
 
