@@ -95,7 +95,7 @@ Person 1:
     - Keypoint 25: (x=419.486, y=1634.69, confidence=0.848233)
 ```
 
-### Movement Analysis (Right Elbow)
+### Movement Analysis (e.g. Right Elbow)
 <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/results/jm_golf_004/04_right_elbow/plot_movement_analysis_right_elbow.png" />
 
 
