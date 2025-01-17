@@ -19,7 +19,7 @@ After extraction, set the appropriate paths to these dependencies in your enviro
 
   - **BOOST NOT FOUND :**
     <p align="center">   
-    <img src=https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/png/BOOST_NOTFOUND.png width=90% height=90% />
+    <img src=https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/png/BOOST_NOTFOUND.png width=80% height=80% />
     </p>
      
      - BOOST_FILESYSTEM_LIB_DEBUG :  
@@ -36,7 +36,7 @@ After extraction, set the appropriate paths to these dependencies in your enviro
 
   - **Caffe NOT FOUND :**  
     <p align="center">
-    <img src=https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/png/Caffe_NOTFOUND.png width=90% height=90%/>
+    <img src=https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/png/Caffe_NOTFOUND.png width=80% height=80%/>
     </p>
     
       - Caffe_LIB_DEBUG :
@@ -53,7 +53,7 @@ After extraction, set the appropriate paths to these dependencies in your enviro
 
   - **GFLAGS NOT FOUND :**  
     <p align="center">
-    <img src=https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/png/GFLAGS_NOTFOUND.png width="90%" height="90%"/>
+    <img src=https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/png/GFLAGS_NOTFOUND.png width="80%" height="80%"/>
     </p>
     
       - GFLAGS_LIBRARY_DEBUG :
@@ -64,7 +64,7 @@ After extraction, set the appropriate paths to these dependencies in your enviro
 
   - **GLOG NOT FOUND :**  
     <p align="center">
-    <img src=https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/png/GLOG_NOTFOUND.png width=90% height=90%/>
+    <img src=https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/png/GLOG_NOTFOUND.png width=80% height=80%/>
     </p>
     
       - GLOG_LIBRARY_DEBUG :
@@ -75,7 +75,7 @@ After extraction, set the appropriate paths to these dependencies in your enviro
 
   - **OpenCV NOT FOUND :**
     <p align="center">
-    <img src=https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/png/OpenCV_NOTFOUND.png width=90% height=90% />
+    <img src=https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/png/OpenCV_NOTFOUND.png width=80% height=80% />
     </p>
 
 After setting all the required paths, reconfigure and generate the build. You should see the messages **'Configuring done'** and **'Generating done'** successfully.
@@ -88,7 +88,7 @@ After setting all the required paths, reconfigure and generate the build. You sh
 ## Model Error
 The `getModels.bat` script in `D:\my_programming\openpose\models` may fail to download the required models due to connectivity issues or the server being unavailable. To resolve this, you need to download the [models](https://drive.google.com/file/d/1QCSxJZpnWvM00hx49CJ2zky7PWGzpcEh/edit) manually.
 <p align="center">
-   <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/png/getModels.bat_download_error.png" width=90% height=90% /> <br>
+   <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/png/getModels.bat_download_error.png" width=80% height=80% /> <br>
    <sup>getModels.bat failed due to no connection</sup>
 </p>
 
