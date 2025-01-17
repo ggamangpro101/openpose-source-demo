@@ -10,6 +10,7 @@ When configuring and generating in CMake-GUI, you might encounter **"NOT FOUND"*
 When you navigate to `..\openpose\3rdparty\windows`, opening any `.zip` file or running a `.bat` file may result in an empty file or a failure to download the required dependencies due to connectivity issues or an unavailable server. To resolve this, you need to download the [dependencies](https://drive.google.com/file/d/1WvftDLLEwAxeO2A-n12g5IFtfLbMY9mG/edit) manually and extract them into the `..\openpose\3rdparty\windows` directory. After extraction, you should see a `3rdParty` directory. Navigate to `../3rdParty/windows` and you should see:
 <p align="center">
 <img src=https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/png/extrated_3rdParty.png width=70% height=70% />
+<sup>Extracted files from 3rdparty.zip </sup>
 </p>
 
 Copy the necessary `.zip` files into `..\openpose\3rdparty\windows`. To address errors such as `boost`, `caffe`, `gflags`, `glog`, or `opencv` NOTFOUND, specifically copy `caffe_16_2020_11_14.zip`, `caffe3rdpart_16_2020_11_14.zip` and `opencv_450_v15_2020_11_18.zip` into the `..\openpose\3rdparty\windows` directory and extract them.
@@ -80,7 +81,7 @@ After extraction, set the appropriate paths to these dependencies in your enviro
 After setting all the required paths, reconfigure and generate the build. You should see the messages **'Configuring done'** and **'Generating done'** successfully.
 <p align="center">
    <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/png/CMake_complete.png" /> <br>
-   <sup>getModels.bat failed due to no connection</sup>
+   <sup>Cmake-GUI complete</sup>
 </p>
 
 
