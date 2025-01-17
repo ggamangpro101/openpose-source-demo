@@ -61,8 +61,9 @@ This guide provides detailed steps for installing OpenPose. Follow these instruc
    - Select **Release, x64** mode in the build configuration
    - click **Build > Build Solution (Ctrl+Shift+B)** <br>
    - If the build is successful, you will see a mesage similar to: <br>
-   **========== Build: 24 succeeded, 0 failed, 0 up-to-date, 1 skipped ==========**
-     
+   <p align="center">
+   <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/installation/png/cmake_generate_error.png" width=75% height=75% />     
+   </p>
 
 ## 5. Verify Installation
 **Test OpenPose Examples**
