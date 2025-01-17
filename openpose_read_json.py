@@ -1,9 +1,8 @@
 import json
 
-
 def read_openpose_json(file_path):
     """
-    Reads and parses an OpenPose JSON file.
+    This program reads and parses OpenPose JSON file.
 
     Args:
         file_path (str): Path to the OpenPose JSON file.
