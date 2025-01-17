@@ -77,3 +77,11 @@ D:\my_programming\openpose\build\x64\Release\OpenPoseDemo.exe ^
     --hand ^
     --face ^
     --model_folder "D:\my_programming\openpose\models"
+
+--json --
+"D:\my_programming\openpose\build\x64\Release\OpenPoseDemo.exe" ^
+    --video "D:\my_programming\openpose\DB-videos\sports\jm_golf_004.mp4" ^
+    --write_video "D:\my_programming\openpose\output\output_videos\jm_golf_004.avi" ^
+    --write_json "D:\my_programming\openpose\output\output_json" ^
+    --display 2 ^
+    --model_folder "D:\my_programming\openpose\models"
