@@ -103,7 +103,7 @@ Person 1:
     - Keypoint 23: (x=492.948, y=1629.44, confidence=0.733568)
     - Keypoint 24: (x=482.449, y=1645.09, confidence=0.774996)
     - Keypoint 25: (x=419.486, y=1634.69, confidence=0.848233)
-
+```
 
 ## Installation
 1. Download OpenPose from [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) in to working directory.
