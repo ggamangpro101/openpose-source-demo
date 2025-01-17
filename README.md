@@ -2,11 +2,11 @@
 This repository demonstrates my personal project where I compiled and ran [CMU OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) from source to process custom video and image inputs for non-commercial research purposes. Through this project, I explored OpenPose's capabilities, including 2D pose estimation for body, hand, and face keypoints, while integrating various input types like webcam, videos and images. The repository also highlights key learnings, troubleshooting steps, and efficient usage of OpenPose for multi-person detection scenarios. This serves as a comprehensive guide for anyone looking to set up and utilize OpenPose from source for their own research or academic projects.
 
 ## Environment 
-- Operating system: Windows 10 
-- GPU: NVIDIA GeForce RTX 4070
-- Visual Studio 2019 Community
-- CUDA: 12.0 
-- cuDNN: cudnn-12.0-windows-x86_64-v8.8.0.121 
+- Operating system: **Windows 10** 
+- GPU: **NVIDIA GeForce RTX 4070**
+- **Visual Studio 2019 Community**
+- CUDA: **12.0** 
+- cuDNN: **cudnn-12.0-windows-x86_64-v8.8.0.121** 
 
 ## Contents
 
