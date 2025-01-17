@@ -28,4 +28,6 @@
       - Click **Configure** and select your preferred compiler (e.g. Visual Studio 16 2019)
    4. Generate Build Files
       - After configuration is complete, click **Generate** to create the build files
-   <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/installation/png/cmake_gui.png" width=70% height=70% />
+   <p align="Center">
+   <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/installation/png/cmake_gui.png" width=80% height=80% />
+   </p>
