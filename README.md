@@ -16,6 +16,7 @@ This repository demonstrates my personal project where I compiled and ran [CMU O
 4. [Error Handling](#Error-Handling)
    - [CMake-GUI “NOT FOUND” Error](#cmake-gui-not-found-error)
    - [Model Error](#model-error)
+   - [DLL Error](#dll-error)
 6. [License](#license)
 
 ## Results
