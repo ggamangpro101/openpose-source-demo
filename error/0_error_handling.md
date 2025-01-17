@@ -81,7 +81,7 @@ After extraction, set the appropriate paths to these dependencies in your enviro
 After setting all the required paths, reconfigure and generate the build. You should see the messages **'Configuring done'** and **'Generating done'** successfully.
 <p align="center">
    <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/png/CMake_complete.png" /> <br>
-   <sup>Cmake-GUI complete</sup>
+   <sup>CMake Configuration and Generation Completed Successfully for OpenPose with All Dependencies Linked</sup>
 </p>
 
 
