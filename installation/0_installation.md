@@ -60,7 +60,7 @@ This guide provides detailed steps for installing OpenPose. Follow these instruc
   For Visual Studio:
    - Select **Release, x64** mode in the build configuration
    - click **Build > Build Solution (Ctrl+Shift+B)** <br>
-   - If the build is successful, you will see a mesage similar to: <br>
+   - If the build is **successful**, you will see a mesage similar to: <br>
    <p align="center">
    <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/installation/png/build_success.png" />     
    </p>
