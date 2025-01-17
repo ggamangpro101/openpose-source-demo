@@ -33,7 +33,9 @@ Copy the necessary `.zip` files into `..\openpose\3rdparty\windows`. To address 
      `../openpose/3rdparty/windows/caffe3rdparty/lib/boost_system-vc142-mt-x64-1_74.lib`
 
   - **Caffe NOT FOUND :**  
+    <p align="center">
     <img src=https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/png/Caffe_NOTFOUND.png width=90% height=90%/>
+    </p>
     
       - Caffe_LIB_DEBUG :
       `../openpose/3rdparty/windows/caffe/lib/caffe-d.lib`
@@ -48,7 +50,9 @@ Copy the necessary `.zip` files into `..\openpose\3rdparty\windows`. To address 
       `../openpose/3rdparty/windows/caffe/lib/caffeproto.lib`
 
   - **GFLAGS NOT FOUND :**  
+    <p align="center">
     <img src=https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/png/GFLAGS_NOTFOUND.png width="90%" height="90%"/>
+    </p>
     
       - GFLAGS_LIBRARY_DEBUG :
       `../openpose/3rdparty/windows/caffe3rdparty/lib/gflagsd.lib`
@@ -57,7 +61,9 @@ Copy the necessary `.zip` files into `..\openpose\3rdparty\windows`. To address 
       `../openpose/3rdparty/windows/caffe3rdparty/lib/gflags.lib `
 
   - **GLOG NOT FOUND :**  
+    <p align="center">
     <img src=https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/png/GLOG_NOTFOUND.png width=90% height=90%/>
+    </p>
     
       - GLOG_LIBRARY_DEBUG :
       `../openpose/3rdparty/windows/caffe3rdparty/lib/glogd.lib`
@@ -66,8 +72,9 @@ Copy the necessary `.zip` files into `..\openpose\3rdparty\windows`. To address 
       `../openpose/3rdparty/windows/caffe3rdparty/lib/glog.lib`
 
   - **OpenCV NOT FOUND :**
+    <p align="center">
     <img src=https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/png/OpenCV_NOTFOUND.png width=90% height=90% />
-
+    </p>
 
 ## Model Error
 The `getModels.bat` script in `D:\my_programming\openpose\models` may fail to download the required models due to connectivity issues or the server being unavailable. To resolve this, you need to download the [models](https://drive.google.com/file/d/1QCSxJZpnWvM00hx49CJ2zky7PWGzpcEh/edit) manually.
