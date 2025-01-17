@@ -54,8 +54,8 @@ When configuring and generating in CMake-GUI, you might encounter **"NOT FOUND"*
       - GLOG_LIBRARY_RELEASE :
       `../openpose/3rdparty/windows/caffe3rdparty/lib/glog.lib`
 
-  - **OpenCV NOT FOUND**
-    <img src=" " />
+  - **OpenCV NOT FOUND :**
+    <img src=https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/png/OpenCV_NOTFOUND.png width=90% height=90% />
 ## Model Error
 The `getModels.bat` script in `D:\my_programming\openpose\models` may fail to download the required models due to connectivity issues or the server being unavailable. To resolve this, you need to download the [models](https://drive.google.com/file/d/1QCSxJZpnWvM00hx49CJ2zky7PWGzpcEh/edit) manually.
 <p align="center">
