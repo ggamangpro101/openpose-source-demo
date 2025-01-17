@@ -40,6 +40,8 @@ This guide provides detailed steps for installing OpenPose. Follow these instruc
 
 **4. Error during configuration**
   - If you encounter any issues, refer to the following solutions. Otherwise, proceed to the next step.
+  - If you encounter any issues, refer to the [Error Handling Guide](../error/0_error_handling.md). Otherwise, proceed to the next step.
+
     - NOTFOUND error
   
     <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/installation/png/cmake_generate_error.png" width=75% height=75% />
