@@ -39,7 +39,6 @@ This guide provides detailed steps for installing OpenPose. Follow these instruc
 
 
 **4. Error during configuration**
-  - If you encounter any issues, refer to the following solutions. Otherwise, proceed to the next step.
   - If you encounter any issues, refer to the [Error Handling Guide](../error/0_error_handling.md). Otherwise, proceed to the next step.
 
     - NOTFOUND error
