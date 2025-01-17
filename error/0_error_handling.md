@@ -84,6 +84,16 @@ After setting all the required paths, reconfigure and generate the build. You sh
    <sup>CMake Configuration and Generation Completed Successfully for OpenPose with All Dependencies Linked</sup>
 </p>
 
+## DLL Error
+If you encounter a DLL error while running `OpenPoseDemo.exe --model_folder "(your_directory)\openpose\models"` such as:
+<p align="center">
+   <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/png/gflags.dll_error.png" width=40% height=40% />
+   <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/png/glog.dll_error.png" width=40% height=40% />
+   <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/png/opencv_world450.dll_error.png" width=40% height=40% /> <br>
+   <sup>Common DLL Errors Encountered When Running OpenPoseDemo.exe</sup>
+</p>
+copy all `.dll` files from `..\openpose\build\bin` to `..\openpose\build\x64\Release` for convenience.
+
 
 ## Model Error
 The `getModels.bat` script in `D:\my_programming\openpose\models` may fail to download the required models due to connectivity issues or the server being unavailable. To resolve this, you need to download the [models](https://drive.google.com/file/d/1QCSxJZpnWvM00hx49CJ2zky7PWGzpcEh/edit) manually.
@@ -117,12 +127,4 @@ When you manually download the `model.zip` file and extract it, follow these ste
 **5. Test the Setup**
    - After replacing the `.caffemodel` files, run OpenPose to confirm the models load correctly and there are no missing file errors.
 
-## DLL Error
-If you encounter a DLL error while running `OpenPoseDemo.exe --model_folder "(your_directory)\openpose\models"` such as:
-<p align="center">
-   <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/png/gflags.dll_error.png" width=40% height=40% />
-   <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/png/glog.dll_error.png" width=40% height=40% />
-   <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/png/opencv_world450.dll_error.png" width=40% height=40% /> <br>
-   <sup>Common DLL Errors Encountered When Running OpenPoseDemo.exe</sup>
-</p>
-copy all `.dll` files from `..\openpose\build\bin` to `..\openpose\build\x64\Release` for convenience.
+
