@@ -33,7 +33,7 @@ This guide provides detailed steps for installing OpenPose. Follow these instruc
           </p>     
    4. Error during configuration
    <p align="Center">
-   <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/installation/png/cmake_generate_error.png" width=80% height=80% />
+   <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/installation/png/cmake_generate_error.png" width=70% height=70% />
    </p>
    
    5. Generate Build Files
