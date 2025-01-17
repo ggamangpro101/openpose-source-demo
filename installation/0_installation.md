@@ -28,13 +28,13 @@ This guide provides detailed steps for installing OpenPose. Follow these instruc
         - **Where to build the binaries:** Browse to the newly created `build` folder
    3. Configure the Project
         - Click **Configure** and select your preferred compiler (e.g. Visual Studio 16 2019)
-          <p align="Center">
-          <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/installation/png/cmake_gui.png" width=75% height=75% />
-          </p>     
+        <p align="Center">
+        <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/installation/png/cmake_gui.png" width=75% height=75% />
+        </p>     
    4. Error during configuration
-          <p align="Center">
-          <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/installation/png/cmake_generate_error.png" width=70% height=70% />
-          </p>
+        <p align="Center">
+        <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/installation/png/cmake_generate_error.png" width=70% height=70% />
+        </p>
    
    5. Generate Build Files
       - After configuration is complete, click **Generate** to create the build files
