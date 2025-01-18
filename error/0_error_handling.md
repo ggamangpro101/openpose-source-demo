@@ -96,6 +96,8 @@ copy all `.dll` files from `..\openpose\build\bin` to `..\openpose\build\x64\Rel
 
 
 ## Model Error
+After resolving **CMake** and **DLL** errors, you may encounter model-related errors. When running `OpenPoseDemo.exe --model_folder "(your_directory)\openpose\models"`, the webcam might initialize, but the models may not function properly. 
+
 The `getModels.bat` script in `D:\my_programming\openpose\models` may fail to download the required models due to connectivity issues or the server being unavailable. To resolve this, you need to download the [models](https://drive.google.com/file/d/1QCSxJZpnWvM00hx49CJ2zky7PWGzpcEh/edit) manually.
 <p align="center">
    <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/error/png/getModels.bat_download_error.png" width=80% height=80% /> <br>
