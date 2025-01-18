@@ -24,14 +24,14 @@ This repository demonstrates my personal project where I compiled and ran [CMU O
 ## Results
 2D Pose Estimation Test (Body, Hand, Face)
 <p align="center">
-  <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/gif/jm_golf_011.gif" width="500" height="300" hspace="0"/>
-  <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/gif/dance_001.gif" width="500" height="300" hspace="25"/> <br>
+  <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/gif/jm_golf_011.gif" width="450" height="300" hspace="0"/>
+  <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/gif/dance_001.gif" width="450" height="300" hspace="25"/> <br>
   <sup>Golf Pose Estimation(Body) single subject & Dance Pose Estimation(Body) multiple subject simultaneously</sup>
 </p>
 
 <p align="center">
-  <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/gif/theater.gif" width="500" height="300" />
-  <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/gif/sign_lang_001.gif" width="500" height="300" hspace="25" /> <br>
+  <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/gif/theater.gif" width="450" height="300" />
+  <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/gif/sign_lang_001.gif" width="500" height="450" hspace="25" /> <br>
   <sup>Pose Estimation(Face) & Pose Estimation(Hand&Face)</sup> 
 </p>
 
