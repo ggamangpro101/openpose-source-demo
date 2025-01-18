@@ -100,7 +100,7 @@ Person 1:
 ```
 
 ### Movement Analysis (e.g. Right Elbow)
-<img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/results/jm_golf_004/04_right_elbow/plot_movement_analysis_right_elbow.png" />
+<img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/results/jm_golf_004/05_right_wrist/plot_movement_analysis_right_wrist.png" />
 
 
 ## Installation
