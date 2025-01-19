@@ -1,5 +1,5 @@
 # OpenPose from Source Demo
- <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/openpose_banner.png" width="100%" height="80%"/>
+ <img src="https://github.com/ggamangpro101/openpose-source-demo/blob/master/jpg/openpose_banner.png" height="80%"/>
 
 This repository demonstrates my personal project where I compiled and ran [CMU OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) from source to process custom video and image inputs for non-commercial research purposes. Through this project, I explored OpenPose's capabilities, including 2D pose estimation for body, hand, and face keypoints, while integrating various input types like webcam, videos and images. The repository also highlights key learnings, troubleshooting steps, and efficient usage of OpenPose for multi-person detection scenarios. This serves as a comprehensive guide for anyone looking to set up and utilize OpenPose from source for their own research or academic projects.
 
